@@ -22,6 +22,12 @@ Self, J. A. (1974). Student models in computer-aided instruction. *Int. J. Man-M
 - Concetto di modello dello studente. Radice dei sistemi educativi conversazionali.
 - Già in `reference.bib`
 
+### 2014 — Interactive Machine Learning (Amershi et al.)
+- **PDF**: `schede/pdfs/2014_amershi-et-al_power-to-the-people-the-role-of-humans-in-interactive-machine-learning.pdf` (Bronze OA — recuperato da Wayback Machine)
+- Amershi, S., Cakmak, M., Knox, W. B., & Kulesza, T. (2014). Power to the People: The Role of Humans in Interactive Machine Learning. *AI Magazine*, 35(4), 105–120.
+- Fondamento dell'HCI/ML: definisce il ruolo umano nell'apprendimento interattivo, design di sistemi user-centered per il ML.
+- Già in `reference.bib`
+
 ### 2017 — Transformer (Vaswani et al.)
 - **PDF**: `schede/pdfs/2017_vaswani-et-al_attention-is-all-you-need.pdf` (arXiv)
 - Vaswani, A., et al. (2017). Attention Is All You Need. *NeurIPS*, 30.
