@@ -16,6 +16,7 @@ Registro cronologico delle interazioni umane–macchina sull'articolo
 | [009](session-009.md) | 2026-05-26 | opencode | revision-style | accepted | Modifica ToV #2 (short→well-articulated sentences). Acquisizione PDF e riassunto Self 1974 |
 | [010](session-010.md) | 2026-05-26 | opencode | revision-bibliography | accepted | Aggiunte 8 referenze su chatbot mentoring, career construction, orientamento. 40 entry in Zotero. Riassunti Neumann e Mendez. |
 | [011](session-011.md) | 2026-05-26 | opencode | revision-bibliography | accepted | Rimosse 4 referenze non open access (Arshad, Ahmad, Sun, Yupelmi). Bib ridotta a 36 entry. |
+| [012](session-012.md) | 2026-06-09 | opencode | revision-content | accepted | Revisione §1: sistema→chatbot, evoluzione rule-based→ML→LLM, dibattito comprensione, Wollny/sistemi pre-GenAI, ruolo umano, tono. |
 
 ---
 *Abbreviazioni:* A = accepted · R = rejected · M = modified · D = deferred · P = partial
