@@ -12,7 +12,7 @@
       "captured_at": null,
       "author": "Joseph Weizenbaum",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "eliza program",
       "pdf_links": [
         {
@@ -33,7 +33,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "mit mac time-sharing system",
       "pdf_links": [
         {
@@ -54,7 +54,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "ibm 7091 computer",
       "pdf_links": [
         {
@@ -75,7 +75,7 @@
       "captured_at": null,
       "author": "John A. Self",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "student model",
       "pdf_links": [
         {
@@ -102,7 +102,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "predicate logic",
       "pdf_links": [
         {
@@ -123,7 +123,7 @@
       "captured_at": null,
       "author": "Berardina De Carolis",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "embodied conversational agent",
       "pdf_links": [
         {
@@ -150,7 +150,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 26,
+      "community": 38,
       "norm_label": "vu-mas system",
       "pdf_links": [
         {
@@ -171,7 +171,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "userml language",
       "pdf_links": [
         {
@@ -192,7 +192,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "apml language",
       "pdf_links": [
         {
@@ -213,7 +213,7 @@
       "captured_at": null,
       "author": "Akata, Zeynep; Dignum, Virginia; Hindriks, Koen; Hung, Hayley; Jonker, Catholijn; Neerincx, Mark; Oliehoek, Frans; van Riemsdijk, Birna; Robbins-van Wynsberghe, A.L.",
       "contributor": "More Authors",
-      "community": 16,
+      "community": 4,
       "norm_label": "a research agenda for hybrid intelligence",
       "pdf_links": [
         {
@@ -471,7 +471,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "human-in-the-loop",
       "pdf_links": [
         {
@@ -687,7 +687,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "delft university of technology",
       "pdf_links": [
         {
@@ -708,7 +708,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "university of amsterdam",
       "pdf_links": [
         {
@@ -729,7 +729,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "university of groningen",
       "pdf_links": [
         {
@@ -750,7 +750,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "vrije universiteit amsterdam",
       "pdf_links": [
         {
@@ -771,7 +771,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "leiden university",
       "pdf_links": [
         {
@@ -792,7 +792,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "tu delft",
       "pdf_links": [
         {
@@ -813,7 +813,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "utrecht university",
       "pdf_links": [
         {
@@ -834,7 +834,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "ieee computer society",
       "pdf_links": [
         {
@@ -855,7 +855,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "computer (new york)",
       "pdf_links": [
         {
@@ -876,7 +876,7 @@
       "captured_at": null,
       "author": "Le Hoanh Su",
       "contributor": "Truong Dang-Huy",
-      "community": 20,
+      "community": 28,
       "norm_label": "development of an ai chatbot to support admissions and career guidance",
       "pdf_links": [
         {
@@ -897,7 +897,7 @@
       "captured_at": null,
       "author": "Emily M. Bender",
       "contributor": "Timnit Gebru",
-      "community": 20,
+      "community": 28,
       "norm_label": "on the dangers of stochastic parrots: can language models be too big?",
       "pdf_links": [
         {
@@ -924,7 +924,7 @@
       "captured_at": null,
       "author": "Alexander Tobias Neumann",
       "contributor": "Tamar Arndt",
-      "community": 7,
+      "community": 5,
       "norm_label": "chatbots as a tool to scale mentoring processes",
       "pdf_links": [
         {
@@ -945,7 +945,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "feedbot",
       "pdf_links": [
         {
@@ -972,7 +972,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "litbot",
       "pdf_links": [
         {
@@ -999,7 +999,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "rasa",
       "pdf_links": [
         {
@@ -1020,7 +1020,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "t-mitocar",
       "pdf_links": [
         {
@@ -1041,7 +1041,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "las2peer",
       "pdf_links": [
         {
@@ -1062,7 +1062,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "edcrumble",
       "pdf_links": [
         {
@@ -1083,7 +1083,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "analytics layers for learning design (al4ld)",
       "pdf_links": [
         {
@@ -1104,7 +1104,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "web collage",
       "pdf_links": [
         {
@@ -1125,7 +1125,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "activity or pedagogy profile tool",
       "pdf_links": [
         {
@@ -1146,7 +1146,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "learning design support environment (ldse)",
       "pdf_links": [
         {
@@ -1167,7 +1167,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "educational design studio",
       "pdf_links": [
         {
@@ -1188,7 +1188,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "open learner modeling (olm)",
       "pdf_links": [
         {
@@ -1215,7 +1215,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "smart learning content",
       "pdf_links": [
         {
@@ -1248,7 +1248,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 5,
       "norm_label": "learning analytics",
       "pdf_links": [
         {
@@ -1281,7 +1281,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "design analytics",
       "pdf_links": [
         {
@@ -1302,7 +1302,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "blended learning",
       "pdf_links": [
         {
@@ -1323,7 +1323,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "knowledge-based visualization",
       "pdf_links": [
         {
@@ -1677,7 +1677,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "hybrid intelligence",
       "pdf_links": [
         {
@@ -1698,7 +1698,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "chatgpt",
       "pdf_links": [
         {
@@ -1719,7 +1719,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "self-regulated learning",
       "pdf_links": [
         {
@@ -1740,7 +1740,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "cognitive offloading",
       "pdf_links": [
         {
@@ -1761,7 +1761,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "generative ai",
       "pdf_links": [
         {
@@ -1782,7 +1782,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "ai literacy",
       "pdf_links": [
         {
@@ -1809,7 +1809,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "prompt engineering",
       "pdf_links": [
         {
@@ -1830,7 +1830,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "critical thinking",
       "pdf_links": [
         {
@@ -1851,7 +1851,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "chatgpt",
       "pdf_links": [
         {
@@ -1905,7 +1905,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "self-regulated learning",
       "pdf_links": [
         {
@@ -2250,7 +2250,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "higher education",
       "pdf_links": [
         {
@@ -2325,7 +2325,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "bert pre-training",
       "pdf_links": [
         {
@@ -2352,7 +2352,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "bert model",
       "pdf_links": [
         {
@@ -2373,7 +2373,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "masked language model",
       "pdf_links": [
         {
@@ -2394,7 +2394,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "next sentence prediction",
       "pdf_links": [
         {
@@ -2415,7 +2415,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "gpt-3 model",
       "pdf_links": [
         {
@@ -2436,7 +2436,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "few-shot learning",
       "pdf_links": [
         {
@@ -2463,7 +2463,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "in-context learning",
       "pdf_links": [
         {
@@ -2484,7 +2484,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "language model pre-training",
       "pdf_links": [
         {
@@ -2538,7 +2538,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "autoregressive language model",
       "pdf_links": [
         {
@@ -2601,7 +2601,7 @@
       "captured_at": null,
       "author": "Sebastian Wollny",
       "contributor": "Jan Schneider",
-      "community": 2,
+      "community": 5,
       "norm_label": "are we there yet? - a systematic literature review on chatbots in education",
       "pdf_links": [
         {
@@ -2703,7 +2703,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 5,
       "norm_label": "mentoring",
       "pdf_links": [
         {
@@ -2724,7 +2724,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 5,
       "norm_label": "adaptation",
       "pdf_links": [
         {
@@ -2745,7 +2745,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 5,
       "norm_label": "intelligent tutoring systems",
       "pdf_links": [
         {
@@ -2793,7 +2793,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "natural language processing",
       "pdf_links": [
         {
@@ -2910,7 +2910,7 @@
       "captured_at": null,
       "author": "Michail Giannakos",
       "contributor": "Roger Azevedo",
-      "community": 7,
+      "community": 5,
       "norm_label": "giannakos et al. - generative ai in education",
       "pdf_links": [
         {
@@ -2952,7 +2952,7 @@
       "captured_at": null,
       "author": "Lei Wang",
       "contributor": "Chen Ma",
-      "community": 13,
+      "community": 9,
       "norm_label": "wang et al. - survey on llm-based autonomous agents",
       "pdf_links": [
         {
@@ -3000,7 +3000,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 15,
       "norm_label": "large language model",
       "pdf_links": [
         {
@@ -3054,7 +3054,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 9,
       "norm_label": "autonomous agent",
       "pdf_links": [
         {
@@ -3075,7 +3075,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "learning design",
       "pdf_links": [
         {
@@ -3102,7 +3102,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 9,
       "norm_label": "planning module",
       "pdf_links": [
         {
@@ -3129,7 +3129,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 9,
       "norm_label": "memory module",
       "pdf_links": [
         {
@@ -3156,7 +3156,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 9,
       "norm_label": "action module",
       "pdf_links": [
         {
@@ -3183,7 +3183,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 9,
       "norm_label": "profiling module",
       "pdf_links": [
         {
@@ -3210,7 +3210,7 @@
       "captured_at": null,
       "author": "Lei WANG, Chen MA, Xueyang FENG, Zeyu ZHANG, Hao YANG, Jingsen ZHANG, Zhiyuan CHEN, Jiakai TANG, Xu CHEN, Yankai LIN, Wayne Xin ZHAO, Zhewei WEI, Jirong WEN",
       "contributor": null,
-      "community": 13,
+      "community": 9,
       "norm_label": "a survey on large language model based autonomous agents",
       "pdf_links": [
         {
@@ -3231,7 +3231,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "student agency",
       "pdf_links": [
         {
@@ -3252,7 +3252,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "ai assistance",
       "pdf_links": [
         {
@@ -3279,7 +3279,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "peer feedback",
       "pdf_links": [
         {
@@ -3300,7 +3300,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 9,
       "norm_label": "llm-based autonomous agents",
       "pdf_links": [
         {
@@ -3327,7 +3327,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 9,
       "norm_label": "agent architecture",
       "pdf_links": [
         {
@@ -3348,7 +3348,7 @@
       "captured_at": null,
       "author": "Saleema Amershi, Maya Cakmak, W. Bradley Knox, Todd Kulesza",
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "power to the people: the role of humans in interactive machine learning",
       "pdf_links": [
         {
@@ -3369,7 +3369,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "interactive machine learning",
       "pdf_links": [
         {
@@ -3390,7 +3390,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "human-computer interaction",
       "pdf_links": [
         {
@@ -3411,7 +3411,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "end-user interaction",
       "pdf_links": [
         {
@@ -3432,7 +3432,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "active learning",
       "pdf_links": [
         {
@@ -3453,7 +3453,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "reinforcement learning",
       "pdf_links": [
         {
@@ -3474,7 +3474,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "user studies",
       "pdf_links": [
         {
@@ -3495,7 +3495,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "transparency",
       "pdf_links": [
         {
@@ -3516,7 +3516,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "explainability",
       "pdf_links": [
         {
@@ -3537,7 +3537,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "recommender systems",
       "pdf_links": [
         {
@@ -3558,7 +3558,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "language models",
       "pdf_links": [
         {
@@ -3579,7 +3579,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "multitask learning",
       "pdf_links": [
         {
@@ -3600,7 +3600,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "zero-shot learning",
       "pdf_links": [
         {
@@ -3621,7 +3621,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "transformer",
       "pdf_links": [
         {
@@ -3642,7 +3642,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "supervised learning",
       "pdf_links": [
         {
@@ -3663,7 +3663,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "webtext",
       "pdf_links": [
         {
@@ -3684,7 +3684,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "gpt-2",
       "pdf_links": [
         {
@@ -3705,7 +3705,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "openai",
       "pdf_links": [
         {
@@ -3738,7 +3738,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "ai magazine",
       "pdf_links": [
         {
@@ -3759,7 +3759,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 8,
       "norm_label": "association for the advancement of artificial intelligence",
       "pdf_links": [
         {
@@ -3780,7 +3780,7 @@
       "captured_at": null,
       "author": "Olaf Zawacki-Richter",
       "contributor": "Victoria I. Marín",
-      "community": 9,
+      "community": 10,
       "norm_label": "systematic review of ai in higher education",
       "pdf_links": [
         {
@@ -3801,7 +3801,7 @@
       "captured_at": null,
       "author": "Luciano Floridi",
       "contributor": "Massimo Chiriatti",
-      "community": 9,
+      "community": 10,
       "norm_label": "gpt-3 nature, scope, limits, and consequences",
       "pdf_links": [
         {
@@ -3822,7 +3822,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "artificial intelligence in education",
       "pdf_links": [
         {
@@ -3855,7 +3855,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "gpt-3",
       "pdf_links": [
         {
@@ -3882,7 +3882,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "turing test",
       "pdf_links": [
         {
@@ -3909,7 +3909,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "machine learning",
       "pdf_links": [
         {
@@ -3942,7 +3942,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "deepmind",
       "pdf_links": [
         {
@@ -3963,7 +3963,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "microsoft",
       "pdf_links": [
         {
@@ -3984,7 +3984,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "ethics in ai",
       "pdf_links": [
         {
@@ -4005,7 +4005,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "irreversibility",
       "pdf_links": [
         {
@@ -4026,7 +4026,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "automated production",
       "pdf_links": [
         {
@@ -4068,7 +4068,7 @@
       "captured_at": null,
       "author": "Laia Albó",
       "contributor": "Jordan Barria-Pineda",
-      "community": 7,
+      "community": 5,
       "norm_label": "knowledge-based design analytics for authoring courses with smart learning content",
       "pdf_links": [
         {
@@ -4200,7 +4200,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "concept level visualization",
       "pdf_links": [
         {
@@ -4221,7 +4221,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "cognitive load",
       "pdf_links": [
         {
@@ -4767,7 +4767,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "llms as socratic mentors",
       "pdf_links": [
         {
@@ -4788,7 +4788,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "dialogic pedagogy",
       "pdf_links": [
         {
@@ -4809,7 +4809,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "constructivism",
       "pdf_links": [
         {
@@ -4830,7 +4830,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "strategic questioning",
       "pdf_links": [
         {
@@ -4851,7 +4851,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "perspective expansion",
       "pdf_links": [
         {
@@ -4872,7 +4872,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "epistemic scaffolding",
       "pdf_links": [
         {
@@ -4893,7 +4893,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "metacognitive modeling",
       "pdf_links": [
         {
@@ -4914,7 +4914,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "conceptual mapping",
       "pdf_links": [
         {
@@ -4935,7 +4935,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "epistemic virtues cultivation",
       "pdf_links": [
         {
@@ -4956,7 +4956,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "k-12 inquiry stimulators",
       "pdf_links": [
         {
@@ -4977,7 +4977,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "k-12 perspective brokers",
       "pdf_links": [
         {
@@ -4998,7 +4998,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "k-12 thinking partners",
       "pdf_links": [
         {
@@ -5019,7 +5019,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "k-12 reflection guides",
       "pdf_links": [
         {
@@ -5040,7 +5040,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "higher ed socratic interlocutors",
       "pdf_links": [
         {
@@ -5061,7 +5061,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "higher ed interdisciplinary connectors",
       "pdf_links": [
         {
@@ -5082,7 +5082,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "higher ed methodological guides",
       "pdf_links": [
         {
@@ -5103,7 +5103,7 @@
       "captured_at": null,
       "author": "Luiz G. Antunes",
       "contributor": "Brasilina Passarelli",
-      "community": 3,
+      "community": 1,
       "norm_label": "higher ed research mentors",
       "pdf_links": [
         {
@@ -5124,7 +5124,7 @@
       "captured_at": null,
       "author": "Zhang et al.",
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "socraticlm",
       "pdf_links": [
         {
@@ -5145,7 +5145,7 @@
       "captured_at": null,
       "author": "Chen et al.",
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "dean-teacher-student pipeline",
       "pdf_links": [
         {
@@ -5166,7 +5166,7 @@
       "captured_at": null,
       "author": "Richardson and Chadwick",
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "richardson and chadwick study",
       "pdf_links": [
         {
@@ -5187,7 +5187,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "transformer architecture",
       "pdf_links": [
         {
@@ -5220,7 +5220,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "self-attention mechanism",
       "pdf_links": [
         {
@@ -5253,7 +5253,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "multi-head attention",
       "pdf_links": [
         {
@@ -5280,7 +5280,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "encoder-decoder structure",
       "pdf_links": [
         {
@@ -5307,7 +5307,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "scaled dot-product attention",
       "pdf_links": [
         {
@@ -5334,7 +5334,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "feed-forward network",
       "pdf_links": [
         {
@@ -5361,7 +5361,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "positional encoding",
       "pdf_links": [
         {
@@ -5388,7 +5388,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "recurrent neural networks",
       "pdf_links": [
         {
@@ -5415,7 +5415,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "convolutional neural networks",
       "pdf_links": [
         {
@@ -5442,7 +5442,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "bleu score metric",
       "pdf_links": [
         {
@@ -5490,7 +5490,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "adaptive hybrid intelligence",
       "pdf_links": [
         {
@@ -5532,7 +5532,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "explainable hybrid intelligence",
       "pdf_links": [
         {
@@ -5574,7 +5574,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "explainable ai",
       "pdf_links": [
         {
@@ -5607,7 +5607,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 28,
+      "community": 40,
       "norm_label": "responsible ai",
       "pdf_links": [
         {
@@ -5628,7 +5628,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 25,
+      "community": 37,
       "norm_label": "adaptive ai",
       "pdf_links": [
         {
@@ -5649,7 +5649,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 27,
+      "community": 39,
       "norm_label": "human-centered ai",
       "pdf_links": [
         {
@@ -5775,7 +5775,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "transfer learning",
       "pdf_links": [
         {
@@ -5796,7 +5796,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "metalearning",
       "pdf_links": [
         {
@@ -5865,7 +5865,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "dalle molle institute",
       "pdf_links": [
         {
@@ -5886,7 +5886,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 4,
       "norm_label": "creative commons",
       "pdf_links": [
         {
@@ -5907,7 +5907,7 @@
       "captured_at": null,
       "author": "Mark Chen",
       "contributor": "Jerry Tworek",
-      "community": 5,
+      "community": 3,
       "norm_label": "evaluating large language models trained on code",
       "pdf_links": [
         {
@@ -5928,7 +5928,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "codex",
       "pdf_links": [
         {
@@ -5949,7 +5949,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "github copilot",
       "pdf_links": [
         {
@@ -5970,7 +5970,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "humaneval",
       "pdf_links": [
         {
@@ -5991,7 +5991,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "pass@k",
       "pdf_links": [
         {
@@ -6012,7 +6012,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "gpt-3",
       "pdf_links": [
         {
@@ -6045,7 +6045,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 5,
       "norm_label": "gpt-j",
       "pdf_links": [
         {
@@ -6066,7 +6066,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "gpt-12b",
       "pdf_links": [
         {
@@ -6087,7 +6087,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "codex-s",
       "pdf_links": [
         {
@@ -6108,7 +6108,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "bleu score",
       "pdf_links": [
         {
@@ -6129,7 +6129,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "test-driven development",
       "pdf_links": [
         {
@@ -6150,7 +6150,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "graves, 2014",
       "pdf_links": [
         {
@@ -6171,7 +6171,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "vaswani et al., 2017",
       "pdf_links": [
         {
@@ -6192,7 +6192,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "child et al., 2019",
       "pdf_links": [
         {
@@ -6213,7 +6213,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "mikolov et al., 2013",
       "pdf_links": [
         {
@@ -6234,7 +6234,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "sutskever et al., 2014",
       "pdf_links": [
         {
@@ -6255,7 +6255,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "dai & le, 2015",
       "pdf_links": [
         {
@@ -6276,7 +6276,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "peters et al., 2018",
       "pdf_links": [
         {
@@ -6297,7 +6297,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "radford et al., 2018",
       "pdf_links": [
         {
@@ -6318,7 +6318,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "devlin et al., 2018",
       "pdf_links": [
         {
@@ -6339,7 +6339,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "van oord et al., 2016",
       "pdf_links": [
         {
@@ -6360,7 +6360,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "menick & kalchbrenner, 2018",
       "pdf_links": [
         {
@@ -6381,7 +6381,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "chen et al., 2020",
       "pdf_links": [
         {
@@ -6402,7 +6402,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "bao et al., 2021",
       "pdf_links": [
         {
@@ -6423,7 +6423,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "oord et al., 2016",
       "pdf_links": [
         {
@@ -6444,7 +6444,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "dhariwal et al., 2020",
       "pdf_links": [
         {
@@ -6465,7 +6465,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "baevski et al., 2020",
       "pdf_links": [
         {
@@ -6486,7 +6486,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "alley et al., 2019",
       "pdf_links": [
         {
@@ -6507,7 +6507,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "rives et al., 2021",
       "pdf_links": [
         {
@@ -6528,7 +6528,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "das et al., 2017",
       "pdf_links": [
         {
@@ -6549,7 +6549,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "lu et al., 2019",
       "pdf_links": [
         {
@@ -6570,7 +6570,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "ramesh et al., 2021",
       "pdf_links": [
         {
@@ -6591,7 +6591,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "zellers et al., 2021",
       "pdf_links": [
         {
@@ -6612,7 +6612,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "simon, 1963",
       "pdf_links": [
         {
@@ -6633,7 +6633,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "manna & waldinger, 1971",
       "pdf_links": [
         {
@@ -6654,7 +6654,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "husain et al., 2019",
       "pdf_links": [
         {
@@ -6675,7 +6675,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "gao et al., 2020",
       "pdf_links": [
         {
@@ -6696,7 +6696,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "wang & komatsuzaki, 2021",
       "pdf_links": [
         {
@@ -6717,7 +6717,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "brown et al., 2020",
       "pdf_links": [
         {
@@ -6738,7 +6738,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "ren et al., 2020",
       "pdf_links": [
         {
@@ -6759,7 +6759,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "lachaux et al., 2020",
       "pdf_links": [
         {
@@ -6780,7 +6780,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "kulal et al., 2019",
       "pdf_links": [
         {
@@ -6801,7 +6801,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "codebert",
       "pdf_links": [
         {
@@ -6822,7 +6822,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "feng et al., 2020",
       "pdf_links": [
         {
@@ -6843,7 +6843,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "pymt5",
       "pdf_links": [
         {
@@ -6864,7 +6864,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 5,
+      "community": 3,
       "norm_label": "clement et al., 2020",
       "pdf_links": [
         {
@@ -7149,7 +7149,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 17,
       "norm_label": "dalle-2",
       "pdf_links": [
         {
@@ -7170,7 +7170,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "chatgpt",
       "pdf_links": [
         {
@@ -7191,7 +7191,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 17,
       "norm_label": "generative adversarial networks",
       "pdf_links": [
         {
@@ -7212,7 +7212,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 18,
       "norm_label": "synthesia",
       "pdf_links": [
         {
@@ -7233,7 +7233,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 18,
       "norm_label": "edapp",
       "pdf_links": [
         {
@@ -7254,7 +7254,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 15,
       "norm_label": "bert",
       "pdf_links": [
         {
@@ -7545,7 +7545,7 @@
       "captured_at": null,
       "author": "JOHN A. SELF",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "computer-aided instruction program",
       "pdf_links": [
         {
@@ -7566,7 +7566,7 @@
       "captured_at": null,
       "author": "JOHN A. SELF",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "teacher program",
       "pdf_links": [
         {
@@ -7587,7 +7587,7 @@
       "captured_at": null,
       "author": "JOHN A. SELF",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "student knowledge state",
       "pdf_links": [
         {
@@ -7608,7 +7608,7 @@
       "captured_at": null,
       "author": "JOHN A. SELF",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "planner-like language",
       "pdf_links": [
         {
@@ -7629,7 +7629,7 @@
       "captured_at": null,
       "author": "JOHN A. SELF",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "semantic network",
       "pdf_links": [
         {
@@ -7650,7 +7650,7 @@
       "captured_at": null,
       "author": "JOHN A. SELF",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "register model",
       "pdf_links": [
         {
@@ -7671,7 +7671,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "mycoach agent",
       "pdf_links": [
         {
@@ -7692,7 +7692,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "virtual university multi-agent system",
       "pdf_links": [
         {
@@ -7713,7 +7713,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "mind-body architecture",
       "pdf_links": [
         {
@@ -7734,7 +7734,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "static web pages",
       "pdf_links": [
         {
@@ -7755,7 +7755,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "mobile learning",
       "pdf_links": [
         {
@@ -7776,7 +7776,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "personal advisor",
       "pdf_links": [
         {
@@ -7797,7 +7797,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "student orientation",
       "pdf_links": [
         {
@@ -7818,7 +7818,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "trustworthiness",
       "pdf_links": [
         {
@@ -7839,7 +7839,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "ease of understanding",
       "pdf_links": [
         {
@@ -7860,7 +7860,7 @@
       "captured_at": null,
       "author": "De Carolis, B.",
       "contributor": null,
-      "community": 11,
+      "community": 12,
       "norm_label": "satisfaction",
       "pdf_links": [
         {
@@ -8031,7 +8031,7 @@
       "captured_at": null,
       "author": "Luciano Floridi",
       "contributor": "Massimo Chiriatti",
-      "community": 9,
+      "community": 10,
       "norm_label": "floridi & chiriatti (2020)",
       "pdf_links": [
         {
@@ -8052,7 +8052,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "gpt-3 model",
       "pdf_links": [
         {
@@ -8079,7 +8079,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "semantic questions",
       "pdf_links": [
         {
@@ -8100,7 +8100,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "automation of text production",
       "pdf_links": [
         {
@@ -8121,7 +8121,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "disinformation risk",
       "pdf_links": [
         {
@@ -8148,7 +8148,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "copyright issues",
       "pdf_links": [
         {
@@ -8169,7 +8169,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "deep learning",
       "pdf_links": [
         {
@@ -8190,7 +8190,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "autoregressive model",
       "pdf_links": [
         {
@@ -8211,7 +8211,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "general artificial intelligence",
       "pdf_links": [
         {
@@ -8232,7 +8232,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 10,
       "norm_label": "science fiction interpretation",
       "pdf_links": [
         {
@@ -8253,7 +8253,7 @@
       "captured_at": null,
       "author": "Le Hoanh Su",
       "contributor": "Truong Dang-Huy",
-      "community": 13,
+      "community": 21,
       "norm_label": "ai chatbot for admissions",
       "pdf_links": [
         {
@@ -8274,7 +8274,7 @@
       "captured_at": null,
       "author": "Le Hoanh Su",
       "contributor": "Truong Dang-Huy",
-      "community": 13,
+      "community": 21,
       "norm_label": "natural language processing",
       "pdf_links": [
         {
@@ -8295,7 +8295,7 @@
       "captured_at": null,
       "author": "Le Hoanh Su",
       "contributor": "Truong Dang-Huy",
-      "community": 13,
+      "community": 21,
       "norm_label": "support vector machine",
       "pdf_links": [
         {
@@ -8316,7 +8316,7 @@
       "captured_at": null,
       "author": "Le Hoanh Su",
       "contributor": "Truong Dang-Huy",
-      "community": 13,
+      "community": 21,
       "norm_label": "tf-idf vectorization",
       "pdf_links": [
         {
@@ -8337,7 +8337,7 @@
       "captured_at": null,
       "author": "Le Hoanh Su",
       "contributor": "Truong Dang-Huy",
-      "community": 13,
+      "community": 21,
       "norm_label": "structured enrollment dataset",
       "pdf_links": [
         {
@@ -8358,7 +8358,7 @@
       "captured_at": null,
       "author": "Le Hoanh Su",
       "contributor": "Truong Dang-Huy",
-      "community": 13,
+      "community": 21,
       "norm_label": "94.6% model accuracy",
       "pdf_links": [
         {
@@ -8379,7 +8379,7 @@
       "captured_at": null,
       "author": "Emily M. Bender",
       "contributor": "Timnit Gebru",
-      "community": 13,
+      "community": 15,
       "norm_label": "model bias and harm",
       "pdf_links": [
         {
@@ -8400,7 +8400,7 @@
       "captured_at": null,
       "author": "Emily M. Bender",
       "contributor": "Timnit Gebru",
-      "community": 13,
+      "community": 15,
       "norm_label": "environmental impact of ai",
       "pdf_links": [
         {
@@ -8421,7 +8421,7 @@
       "captured_at": null,
       "author": "Emily M. Bender",
       "contributor": "Timnit Gebru",
-      "community": 13,
+      "community": 21,
       "norm_label": "dataset curation and documentation",
       "pdf_links": [
         {
@@ -8448,7 +8448,7 @@
       "captured_at": null,
       "author": "Emily M. Bender",
       "contributor": "Timnit Gebru",
-      "community": 13,
+      "community": 15,
       "norm_label": "gpt-3 model",
       "pdf_links": [
         {
@@ -8469,7 +8469,7 @@
       "captured_at": null,
       "author": "Emily M. Bender",
       "contributor": "Timnit Gebru",
-      "community": 13,
+      "community": 15,
       "norm_label": "bert model",
       "pdf_links": [
         {
@@ -8934,7 +8934,7 @@
       "captured_at": null,
       "author": "Daniel Leiker",
       "contributor": "Ashley Ricker Gyllen",
-      "community": 1,
+      "community": 18,
       "norm_label": "generative ai",
       "pdf_links": [
         {
@@ -8955,7 +8955,7 @@
       "captured_at": null,
       "author": "Daniel Leiker",
       "contributor": "Ismail Eldesouky",
-      "community": 1,
+      "community": 18,
       "norm_label": "synthetic learning videos",
       "pdf_links": [
         {
@@ -8976,7 +8976,7 @@
       "captured_at": null,
       "author": "Daniel Leiker",
       "contributor": "Mutlu Cukurova",
-      "community": 1,
+      "community": 18,
       "norm_label": "traditional instructor videos",
       "pdf_links": [
         {
@@ -8997,7 +8997,7 @@
       "captured_at": null,
       "author": "Daniel Leiker",
       "contributor": "Ashley Ricker Gyllen",
-      "community": 1,
+      "community": 18,
       "norm_label": "learning performance",
       "pdf_links": [
         {
@@ -9018,7 +9018,7 @@
       "captured_at": null,
       "author": "Daniel Leiker",
       "contributor": "Ismail Eldesouky",
-      "community": 1,
+      "community": 18,
       "norm_label": "student perception",
       "pdf_links": [
         {
@@ -9039,7 +9039,7 @@
       "captured_at": null,
       "author": "Daniel Leiker",
       "contributor": "Mutlu Cukurova",
-      "community": 1,
+      "community": 18,
       "norm_label": "synthesia platform",
       "pdf_links": [
         {
@@ -9060,7 +9060,7 @@
       "captured_at": null,
       "author": "Teo Susnjak",
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "predictive learning analytics",
       "pdf_links": [
         {
@@ -9087,7 +9087,7 @@
       "captured_at": null,
       "author": "Teo Susnjak",
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "prescriptive analytics",
       "pdf_links": [
         {
@@ -9114,7 +9114,7 @@
       "captured_at": null,
       "author": "Teo Susnjak",
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "chatgpt",
       "pdf_links": [
         {
@@ -9141,7 +9141,7 @@
       "captured_at": null,
       "author": "Teo Susnjak",
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "counterfactuals",
       "pdf_links": [
         {
@@ -9162,7 +9162,7 @@
       "captured_at": null,
       "author": "Teo Susnjak",
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "shap",
       "pdf_links": [
         {
@@ -9183,7 +9183,7 @@
       "captured_at": null,
       "author": "Teo Susnjak",
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "anchors",
       "pdf_links": [
         {
@@ -9204,7 +9204,7 @@
       "captured_at": null,
       "author": "Teo Susnjak",
       "contributor": null,
-      "community": 1,
+      "community": 18,
       "norm_label": "learner intervention support",
       "pdf_links": [
         {
@@ -9231,7 +9231,7 @@
       "captured_at": null,
       "author": "Daniel Leiker",
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "multimedia learning theory",
       "pdf_links": [
         {
@@ -9252,7 +9252,7 @@
       "captured_at": null,
       "author": "Teo Susnjak",
       "contributor": null,
-      "community": 1,
+      "community": 16,
       "norm_label": "learning analytics",
       "pdf_links": [
         {
@@ -9273,7 +9273,7 @@
       "captured_at": null,
       "author": "Ali Darvishi",
       "contributor": "Hassan Khosravi",
-      "community": 14,
+      "community": 9,
       "norm_label": "impact of ai assistance on student agency",
       "pdf_links": [
         {
@@ -9294,7 +9294,7 @@
       "captured_at": null,
       "author": "Yizhou Fan",
       "contributor": "Luzhen Tang",
-      "community": 14,
+      "community": 9,
       "norm_label": "beware of metacognitive laziness",
       "pdf_links": [
         {
@@ -9315,7 +9315,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "metacognitive laziness",
       "pdf_links": [
         {
@@ -9336,7 +9336,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "self-regulation strategies",
       "pdf_links": [
         {
@@ -9357,7 +9357,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "learning motivation",
       "pdf_links": [
         {
@@ -9378,7 +9378,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "knowledge gain",
       "pdf_links": [
         {
@@ -9405,7 +9405,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "ripple system",
       "pdf_links": [
         {
@@ -9426,7 +9426,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "randomized experiment",
       "pdf_links": [
         {
@@ -9453,7 +9453,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "process mining",
       "pdf_links": [
         {
@@ -9474,7 +9474,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "winne's srl model",
       "pdf_links": [
         {
@@ -9495,7 +9495,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "zimmerman's srl model",
       "pdf_links": [
         {
@@ -9516,7 +9516,7 @@
       "captured_at": null,
       "author": "Michail Giannakos",
       "contributor": "Roger Azevedo",
-      "community": 8,
+      "community": 7,
       "norm_label": "generative ai in education",
       "pdf_links": [
         {
@@ -9537,7 +9537,7 @@
       "captured_at": null,
       "author": "Michail Giannakos",
       "contributor": "Roger Azevedo",
-      "community": 8,
+      "community": 7,
       "norm_label": "learning design",
       "pdf_links": [
         {
@@ -9558,7 +9558,7 @@
       "captured_at": null,
       "author": "Michail Giannakos",
       "contributor": "Roger Azevedo",
-      "community": 8,
+      "community": 7,
       "norm_label": "self-regulated learning",
       "pdf_links": [
         {
@@ -9579,7 +9579,7 @@
       "captured_at": null,
       "author": "Michail Giannakos",
       "contributor": "Roger Azevedo",
-      "community": 8,
+      "community": 7,
       "norm_label": "automated feedback",
       "pdf_links": [
         {
@@ -9606,7 +9606,7 @@
       "captured_at": null,
       "author": "Michail Giannakos",
       "contributor": "Roger Azevedo",
-      "community": 8,
+      "community": 7,
       "norm_label": "assessment",
       "pdf_links": [
         {
@@ -9627,7 +9627,7 @@
       "captured_at": null,
       "author": "Michail Giannakos",
       "contributor": "Roger Azevedo",
-      "community": 8,
+      "community": 7,
       "norm_label": "ethical consequences",
       "pdf_links": [
         {
@@ -9648,7 +9648,7 @@
       "captured_at": null,
       "author": "Michail Giannakos",
       "contributor": "Roger Azevedo",
-      "community": 8,
+      "community": 7,
       "norm_label": "human expert role",
       "pdf_links": [
         {
@@ -9675,7 +9675,7 @@
       "captured_at": null,
       "author": "Yoshija Walter",
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "kalaidos university of applied sciences",
       "pdf_links": [
         {
@@ -9696,7 +9696,7 @@
       "captured_at": null,
       "author": "Yoshija Walter",
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "ai-guidelines",
       "pdf_links": [
         {
@@ -9723,7 +9723,7 @@
       "captured_at": null,
       "author": "Yoshija Walter",
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "personalized learning",
       "pdf_links": [
         {
@@ -9750,7 +9750,7 @@
       "captured_at": null,
       "author": "Yoshija Walter",
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "educator training",
       "pdf_links": [
         {
@@ -9777,7 +9777,7 @@
       "captured_at": null,
       "author": "Yoshija Walter",
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "curriculum adaptation",
       "pdf_links": [
         {
@@ -9804,7 +9804,7 @@
       "captured_at": null,
       "author": "Yoshija Walter",
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "ai hallucinations",
       "pdf_links": [
         {
@@ -9831,7 +9831,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 20,
       "norm_label": "autonomous agent",
       "pdf_links": [
         {
@@ -9852,7 +9852,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 20,
       "norm_label": "large language model",
       "pdf_links": [
         {
@@ -9873,7 +9873,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 20,
       "norm_label": "human-level intelligence",
       "pdf_links": [
         {
@@ -9894,7 +9894,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 19,
       "norm_label": "unified framework",
       "pdf_links": [
         {
@@ -9915,7 +9915,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 19,
       "norm_label": "profiling module",
       "pdf_links": [
         {
@@ -9936,7 +9936,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 19,
       "norm_label": "memory module",
       "pdf_links": [
         {
@@ -9957,7 +9957,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 19,
       "norm_label": "planning module",
       "pdf_links": [
         {
@@ -9978,7 +9978,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 19,
       "norm_label": "action module",
       "pdf_links": [
         {
@@ -9999,7 +9999,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 19,
       "norm_label": "handcrafting method",
       "pdf_links": [
         {
@@ -10020,7 +10020,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 19,
       "norm_label": "llm generation method",
       "pdf_links": [
         {
@@ -10041,7 +10041,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 19,
       "norm_label": "dataset alignment method",
       "pdf_links": [
         {
@@ -10062,7 +10062,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 20,
       "norm_label": "social science",
       "pdf_links": [
         {
@@ -10083,7 +10083,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 20,
       "norm_label": "natural science",
       "pdf_links": [
         {
@@ -10104,7 +10104,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 20,
       "norm_label": "engineering",
       "pdf_links": [
         {
@@ -10125,7 +10125,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 20,
       "norm_label": "objective evaluation",
       "pdf_links": [
         {
@@ -10146,7 +10146,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 20,
       "norm_label": "franklin and graesser (1997)",
       "pdf_links": [
         {
@@ -10168,7 +10168,7 @@
       "author": null,
       "contributor": null,
       "description": "Traditional educational paradigm positioning students as passive recipients of information.",
-      "community": 3,
+      "community": 1,
       "norm_label": "traditional question-answering",
       "pdf_links": [
         {
@@ -10190,7 +10190,7 @@
       "author": "Freire",
       "contributor": null,
       "description": "Traditional pedagogical approach positioning students as passive recipients rather than active co-creators of knowledge.",
-      "community": 3,
+      "community": 1,
       "norm_label": "banking model of education",
       "pdf_links": [
         {
@@ -10212,7 +10212,7 @@
       "author": "Vygotsky",
       "contributor": null,
       "description": "Concept of graduated assistance based on student needs, reducing guidance as autonomy develops.",
-      "community": 3,
+      "community": 1,
       "norm_label": "zone of proximal development",
       "pdf_links": [
         {
@@ -10383,7 +10383,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 29,
+      "community": 41,
       "norm_label": "llm-based autonomous agents",
       "pdf_links": [
         {
@@ -10557,7 +10557,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "attention is all you need",
       "pdf_links": [
         {
@@ -10578,7 +10578,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Illia Polosukhin",
-      "community": 3,
+      "community": 1,
       "norm_label": "residual connection",
       "pdf_links": [
         {
@@ -10599,7 +10599,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Illia Polosukhin",
-      "community": 3,
+      "community": 1,
       "norm_label": "layer normalization",
       "pdf_links": [
         {
@@ -10620,7 +10620,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "wmt 2014 dataset",
       "pdf_links": [
         {
@@ -10641,7 +10641,7 @@
       "captured_at": null,
       "author": "Ashish Vaswani",
       "contributor": "Noam Shazeer",
-      "community": 3,
+      "community": 1,
       "norm_label": "nips 2017 conference",
       "pdf_links": [
         {
@@ -10662,7 +10662,7 @@
       "captured_at": null,
       "author": "Jacob Devlin",
       "contributor": "Ming-Wei Chang",
-      "community": 3,
+      "community": 1,
       "norm_label": "bidirectional encoder",
       "pdf_links": [
         {
@@ -10683,7 +10683,7 @@
       "captured_at": null,
       "author": "Jacob Devlin",
       "contributor": "Kenton Lee",
-      "community": 3,
+      "community": 1,
       "norm_label": "fine-tuning strategy",
       "pdf_links": [
         {
@@ -10704,7 +10704,7 @@
       "captured_at": null,
       "author": "Jacob Devlin",
       "contributor": "Kenton Lee",
-      "community": 3,
+      "community": 1,
       "norm_label": "glue benchmark",
       "pdf_links": [
         {
@@ -10725,7 +10725,7 @@
       "captured_at": null,
       "author": "Jacob Devlin",
       "contributor": "Kenton Lee",
-      "community": 3,
+      "community": 1,
       "norm_label": "squad dataset",
       "pdf_links": [
         {
@@ -10746,7 +10746,7 @@
       "captured_at": null,
       "author": "Jacob Devlin",
       "contributor": "Kenton Lee",
-      "community": 3,
+      "community": 1,
       "norm_label": "bookscorpus dataset",
       "pdf_links": [
         {
@@ -10767,7 +10767,7 @@
       "captured_at": null,
       "author": "Jacob Devlin",
       "contributor": "Kenton Lee",
-      "community": 3,
+      "community": 1,
       "norm_label": "wikipedia dataset",
       "pdf_links": [
         {
@@ -10788,7 +10788,7 @@
       "captured_at": null,
       "author": "Jacob Devlin",
       "contributor": "Kenton Lee",
-      "community": 3,
+      "community": 1,
       "norm_label": "elmo model",
       "pdf_links": [
         {
@@ -10809,7 +10809,7 @@
       "captured_at": null,
       "author": "Jacob Devlin",
       "contributor": "Kenton Lee",
-      "community": 1,
+      "community": 17,
       "norm_label": "generative pre-trained transformer (gpt)",
       "pdf_links": [
         {
@@ -10836,7 +10836,7 @@
       "captured_at": null,
       "author": "Alec Radford",
       "contributor": "Ilya Sutskever",
-      "community": 12,
+      "community": 13,
       "norm_label": "language models are unsupervised multitask learners",
       "pdf_links": [
         {
@@ -10857,7 +10857,7 @@
       "captured_at": null,
       "author": "Tom B. Brown",
       "contributor": "Dario Amodei",
-      "community": 12,
+      "community": 13,
       "norm_label": "language models are few-shot learners",
       "pdf_links": [
         {
@@ -10878,7 +10878,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "question answering",
       "pdf_links": [
         {
@@ -10899,7 +10899,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 1,
       "norm_label": "machine translation",
       "pdf_links": [
         {
@@ -10932,7 +10932,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "reading comprehension",
       "pdf_links": [
         {
@@ -10953,7 +10953,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "summarization",
       "pdf_links": [
         {
@@ -10974,7 +10974,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "data contamination",
       "pdf_links": [
         {
@@ -10995,7 +10995,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "scaling law",
       "pdf_links": [
         {
@@ -11016,7 +11016,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 13,
       "norm_label": "superglue benchmark",
       "pdf_links": [
         {
@@ -11037,7 +11037,7 @@
       "captured_at": null,
       "author": "Mark Chen",
       "contributor": "Jerry Tworek",
-      "community": 7,
+      "community": 5,
       "norm_label": "codex model",
       "pdf_links": [
         {
@@ -11058,7 +11058,7 @@
       "captured_at": null,
       "author": "Mark Chen",
       "contributor": "Heewoo Jun",
-      "community": 7,
+      "community": 5,
       "norm_label": "humaneval dataset",
       "pdf_links": [
         {
@@ -11079,7 +11079,7 @@
       "captured_at": null,
       "author": "Mark Chen",
       "contributor": "Heewoo Jun",
-      "community": 7,
+      "community": 5,
       "norm_label": "pass@k metric",
       "pdf_links": [
         {
@@ -11100,7 +11100,7 @@
       "captured_at": null,
       "author": "Mark Chen",
       "contributor": "OpenAI",
-      "community": 7,
+      "community": 5,
       "norm_label": "gvisor sandbox",
       "pdf_links": [
         {
@@ -11121,7 +11121,7 @@
       "captured_at": null,
       "author": "Alexander Tobias Neumann",
       "contributor": "Ralf Klamma",
-      "community": 7,
+      "community": 5,
       "norm_label": "social bot framework",
       "pdf_links": [
         {
@@ -11142,7 +11142,7 @@
       "captured_at": null,
       "author": "Alexander Tobias Neumann",
       "contributor": "Heinz-Werner Wollersheim",
-      "community": 7,
+      "community": 5,
       "norm_label": "kubernetes",
       "pdf_links": [
         {
@@ -11163,7 +11163,7 @@
       "captured_at": null,
       "author": "Alexander Tobias Neumann",
       "contributor": "Tamar Arndt",
-      "community": 7,
+      "community": 5,
       "norm_label": "mentoring process",
       "pdf_links": [
         {
@@ -11184,7 +11184,7 @@
       "captured_at": null,
       "author": "Mark Chen",
       "contributor": "OpenAI",
-      "community": 7,
+      "community": 5,
       "norm_label": "github codebase",
       "pdf_links": [
         {
@@ -11205,7 +11205,7 @@
       "captured_at": null,
       "author": "Alexander Tobias Neumann",
       "contributor": "Laura Köbis",
-      "community": 7,
+      "community": 5,
       "norm_label": "self-study activities",
       "pdf_links": [
         {
@@ -11226,7 +11226,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "metacognition",
       "pdf_links": [
         {
@@ -11247,7 +11247,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "generative ai",
       "pdf_links": [
         {
@@ -11268,7 +11268,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "human-ai interaction",
       "pdf_links": [
         {
@@ -11289,7 +11289,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "explainability",
       "pdf_links": [
         {
@@ -11310,7 +11310,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "customizability",
       "pdf_links": [
         {
@@ -11331,7 +11331,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "prompting",
       "pdf_links": [
         {
@@ -11352,7 +11352,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "cognitive load",
       "pdf_links": [
         {
@@ -11394,7 +11394,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "career counseling",
       "pdf_links": [
         {
@@ -11442,7 +11442,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "career story",
       "pdf_links": [
         {
@@ -11469,7 +11469,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "digital age",
       "pdf_links": [
         {
@@ -11496,7 +11496,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "metacognitive support",
       "pdf_links": [
         {
@@ -11517,7 +11517,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "computer-assisted career counseling",
       "pdf_links": [
         {
@@ -11550,7 +11550,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "group counseling",
       "pdf_links": [
         {
@@ -11577,7 +11577,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 14,
       "norm_label": "individual counseling",
       "pdf_links": [
         {
@@ -11604,7 +11604,7 @@
       "captured_at": null,
       "author": "Danqi Wang; Yanling Li",
       "contributor": null,
-      "community": 24,
+      "community": 36,
       "norm_label": "tools and interventions",
       "pdf_links": [
         {
@@ -11625,7 +11625,7 @@
       "captured_at": null,
       "author": "Danqi Wang; Yanling Li",
       "contributor": null,
-      "community": 23,
+      "community": 35,
       "norm_label": "future trends",
       "pdf_links": [
         {
@@ -11814,7 +11814,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 19,
+      "community": 27,
       "norm_label": "sparring partner approach",
       "pdf_links": [
         {
@@ -11835,7 +11835,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 19,
+      "community": 27,
       "norm_label": "prohibitions approach",
       "pdf_links": [
         {
@@ -11856,7 +11856,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 19,
+      "community": 27,
       "norm_label": "laissez-faire approach",
       "pdf_links": [
         {
@@ -11877,7 +11877,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "metacognitive laziness",
       "pdf_links": [
         {
@@ -11898,7 +11898,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "stochastic parrots",
       "pdf_links": [
         {
@@ -11919,7 +11919,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "swot analysis",
       "pdf_links": [
         {
@@ -11940,7 +11940,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "metacognitive demands",
       "pdf_links": [
         {
@@ -11961,7 +11961,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "counseling models evolution",
       "pdf_links": [
         {
@@ -11988,7 +11988,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "questionnaire on learning strategies (qsa)",
       "pdf_links": [
         {
@@ -12009,7 +12009,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "questionnaire on temporal perspectives (ztpi)",
       "pdf_links": [
         {
@@ -12030,7 +12030,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "questionnaire on professional adaptability (qap)",
       "pdf_links": [
         {
@@ -12051,7 +12051,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "competenzestrategiche.it platform",
       "pdf_links": [
         {
@@ -12072,7 +12072,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 7,
       "norm_label": "future-oriented perspective",
       "pdf_links": [
         {
@@ -12093,7 +12093,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "productivity effects of genai",
       "pdf_links": [
         {
@@ -12114,7 +12114,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "chatgpt",
       "pdf_links": [
         {
@@ -12141,7 +12141,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "preregistered online experiment",
       "pdf_links": [
         {
@@ -12162,7 +12162,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "inequality between workers",
       "pdf_links": [
         {
@@ -12189,7 +12189,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "displace or augment labor",
       "pdf_links": [
         {
@@ -12210,7 +12210,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "feedback sources in essay writing",
       "pdf_links": [
         {
@@ -12237,7 +12237,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "chatgpt-generated feedback",
       "pdf_links": [
         {
@@ -12264,7 +12264,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "peer-generated feedback",
       "pdf_links": [
         {
@@ -12285,7 +12285,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "essay writing quality",
       "pdf_links": [
         {
@@ -12312,7 +12312,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "learning strategy",
       "pdf_links": [
         {
@@ -12333,7 +12333,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "teacher workload",
       "pdf_links": [
         {
@@ -12354,7 +12354,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "cognitive processing",
       "pdf_links": [
         {
@@ -12375,7 +12375,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "manova analysis",
       "pdf_links": [
         {
@@ -12402,7 +12402,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "learning analytics",
       "pdf_links": [
         {
@@ -12423,7 +12423,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "higher education",
       "pdf_links": [
         {
@@ -12444,7 +12444,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 11,
       "norm_label": "self-regulation and metacognition",
       "pdf_links": [
         {
@@ -12465,7 +12465,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "technology dependence",
       "pdf_links": [
         {
@@ -12486,7 +12486,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "writing analytics tools",
       "pdf_links": [
         {
@@ -12507,7 +12507,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 9,
       "norm_label": "human expert",
       "pdf_links": [
         {
@@ -12525,7 +12525,7 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "captured_at": "2024-10-25",
       "author": "Lixiang Yan",
-      "community": 1,
+      "community": 17,
       "norm_label": "generative ai for human learning",
       "pdf_links": [
         {
@@ -12550,7 +12550,7 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "captured_at": "2024-10-25",
       "author": "Lixiang Yan",
-      "community": 1,
+      "community": 24,
       "norm_label": "llm as tutor",
       "pdf_links": [
         {
@@ -12569,7 +12569,7 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "captured_at": "2024-10-25",
       "author": "Lixiang Yan",
-      "community": 1,
+      "community": 24,
       "norm_label": "khanmigo",
       "pdf_links": [
         {
@@ -12588,7 +12588,7 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "captured_at": "2024-10-25",
       "author": "Lixiang Yan",
-      "community": 1,
+      "community": 24,
       "norm_label": "vygotsky's sociocultural theory",
       "pdf_links": [
         {
@@ -12607,7 +12607,7 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "captured_at": "2024-10-25",
       "author": "Lixiang Yan",
-      "community": 1,
+      "community": 24,
       "norm_label": "constructivist learning",
       "pdf_links": [
         {
@@ -12626,7 +12626,7 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "captured_at": "2024-10-25",
       "author": "Lixiang Yan",
-      "community": 1,
+      "community": 17,
       "norm_label": "diffusion models",
       "pdf_links": [
         {
@@ -12645,7 +12645,7 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "captured_at": "2025-03-25",
       "author": "Sahil Sharma",
-      "community": 1,
+      "community": 17,
       "norm_label": "llms in personalized learning",
       "pdf_links": [
         {
@@ -12670,7 +12670,7 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "captured_at": "2025-03-25",
       "author": "Sahil Sharma",
-      "community": 1,
+      "community": 22,
       "norm_label": "intelligent tutoring systems",
       "pdf_links": [
         {
@@ -12689,7 +12689,7 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "captured_at": "2025-03-25",
       "author": "Sahil Sharma",
-      "community": 1,
+      "community": 22,
       "norm_label": "piaget's cognitive development theory",
       "pdf_links": [
         {
@@ -12708,7 +12708,7 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "captured_at": "2025-03-25",
       "author": "Sahil Sharma",
-      "community": 1,
+      "community": 22,
       "norm_label": "vygotsky's social constructivist theory",
       "pdf_links": [
         {
@@ -12733,7 +12733,7 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "captured_at": "2025-03-25",
       "author": "Sahil Sharma",
-      "community": 1,
+      "community": 22,
       "norm_label": "bandura's social learning theory",
       "pdf_links": [
         {
@@ -12752,7 +12752,7 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "captured_at": "2025-03-25",
       "author": "Sahil Sharma",
-      "community": 1,
+      "community": 17,
       "norm_label": "ai-tpack framework",
       "pdf_links": [
         {
@@ -12777,7 +12777,7 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "captured_at": "2025-03-25",
       "author": "Sahil Sharma",
-      "community": 1,
+      "community": 17,
       "norm_label": "local llms",
       "pdf_links": [
         {
@@ -12802,7 +12802,7 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "captured_at": "2024-10-25",
       "author": "Lixiang Yan",
-      "community": 1,
+      "community": 17,
       "norm_label": "ai literacy",
       "pdf_links": [
         {
@@ -12821,7 +12821,7 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "captured_at": "2025-03-25",
       "author": "Sahil Sharma",
-      "community": 1,
+      "community": 17,
       "norm_label": "educational equity",
       "pdf_links": [
         {
@@ -12843,8 +12843,7 @@
       "captured_at": null,
       "author": "Shakked Noy",
       "contributor": "Whitney Zhang",
-      "id": "2023_noy_zhang_occupations",
-      "community": 10,
+      "community": 11,
       "norm_label": "occupation-specific tasks",
       "pdf_links": [
         {
@@ -12853,7 +12852,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2023_noy_zhang_occupations"
     },
     {
       "label": "ChatGPT as Feedback Source",
@@ -12864,8 +12864,7 @@
       "captured_at": null,
       "author": "Seyyed Kazem Banihashem",
       "contributor": "Nafiseh Taghizadeh Kerman",
-      "id": "2024_banihashem_chatgpt",
-      "community": 10,
+      "community": 11,
       "norm_label": "chatgpt as feedback source",
       "pdf_links": [
         {
@@ -12880,7 +12879,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2024_banihashem_chatgpt"
     },
     {
       "label": "Spearman's Correlation",
@@ -12891,8 +12891,7 @@
       "captured_at": null,
       "author": "Seyyed Kazem Banihashem",
       "contributor": "Nafiseh Taghizadeh Kerman",
-      "id": "2024_banihashem_spearman",
-      "community": 10,
+      "community": 11,
       "norm_label": "spearman's correlation",
       "pdf_links": [
         {
@@ -12907,7 +12906,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2024_banihashem_spearman"
     },
     {
       "label": "FeedbackFruits App",
@@ -12918,8 +12918,7 @@
       "captured_at": null,
       "author": "Seyyed Kazem Banihashem",
       "contributor": "Nafiseh Taghizadeh Kerman",
-      "id": "2024_banihashem_feedbackfruits",
-      "community": 10,
+      "community": 11,
       "norm_label": "feedbackfruits app",
       "pdf_links": [
         {
@@ -12934,7 +12933,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2024_banihashem_feedbackfruits"
     },
     {
       "label": "Complementary Role of AI and Peers",
@@ -12945,8 +12945,7 @@
       "captured_at": null,
       "author": "Seyyed Kazem Banihashem",
       "contributor": "Nafiseh Taghizadeh Kerman",
-      "id": "2024_banihashem_complementary",
-      "community": 10,
+      "community": 11,
       "norm_label": "complementary role of ai and peers",
       "pdf_links": [
         {
@@ -12961,7 +12960,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2024_banihashem_complementary"
     },
     {
       "label": "Science Journal",
@@ -12972,8 +12972,7 @@
       "captured_at": null,
       "author": "Shakked Noy",
       "contributor": "Whitney Zhang",
-      "id": "2023_noy_zhang_science",
-      "community": 21,
+      "community": 31,
       "norm_label": "science journal",
       "pdf_links": [
         {
@@ -12982,7 +12981,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2023_noy_zhang_science"
     },
     {
       "label": "International Journal of Educational Technology in Higher Education",
@@ -12993,8 +12993,7 @@
       "captured_at": null,
       "author": "Seyyed Kazem Banihashem",
       "contributor": "Nafiseh Taghizadeh Kerman",
-      "id": "2024_banihashem_ijeth",
-      "community": 22,
+      "community": 32,
       "norm_label": "international journal of educational technology in higher education",
       "pdf_links": [
         {
@@ -13003,7 +13002,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2024_banihashem-et-al_feedback-sources-in-essay-writing.pdf",
           "url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
         }
-      ]
+      ],
+      "id": "2024_banihashem_ijeth"
     },
     {
       "label": "Time Reduction (40%)",
@@ -13014,8 +13014,7 @@
       "captured_at": null,
       "author": "Shakked Noy",
       "contributor": "Whitney Zhang",
-      "id": "2023_noy_zhang_time",
-      "community": 10,
+      "community": 11,
       "norm_label": "time reduction (40%)",
       "pdf_links": [
         {
@@ -13024,7 +13023,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2023_noy_zhang_time"
     },
     {
       "label": "Output Quality Increase (18%)",
@@ -13035,8 +13035,7 @@
       "captured_at": null,
       "author": "Shakked Noy",
       "contributor": "Whitney Zhang",
-      "id": "2023_noy_zhang_quality",
-      "community": 10,
+      "community": 11,
       "norm_label": "output quality increase (18%)",
       "pdf_links": [
         {
@@ -13045,7 +13044,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2023_noy_zhang_quality"
     },
     {
       "label": "Descriptive Feedback (AI)",
@@ -13056,8 +13056,7 @@
       "captured_at": null,
       "author": "Seyyed Kazem Banihashem",
       "contributor": "Nafiseh Taghizadeh Kerman",
-      "id": "2024_banihashem_descriptive",
-      "community": 10,
+      "community": 11,
       "norm_label": "descriptive feedback (ai)",
       "pdf_links": [
         {
@@ -13072,7 +13071,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2024_banihashem_descriptive"
     },
     {
       "label": "Problem Identification (Peers)",
@@ -13083,8 +13083,7 @@
       "captured_at": null,
       "author": "Seyyed Kazem Banihashem",
       "contributor": "Nafiseh Taghizadeh Kerman",
-      "id": "2024_banihashem_problem_id",
-      "community": 10,
+      "community": 11,
       "norm_label": "problem identification (peers)",
       "pdf_links": [
         {
@@ -13099,7 +13098,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.pdf",
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
-      ]
+      ],
+      "id": "2024_banihashem_problem_id"
     },
     {
       "label": "Generative Artificial Intelligence",
@@ -13110,8 +13110,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "yan_genai",
-      "community": 1,
+      "community": 23,
       "norm_label": "generative artificial intelligence",
       "pdf_links": [
         {
@@ -13120,7 +13119,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
-      ]
+      ],
+      "id": "yan_genai"
     },
     {
       "label": "Human Learning",
@@ -13131,8 +13131,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "yan_human_learning",
-      "community": 1,
+      "community": 23,
       "norm_label": "human learning",
       "pdf_links": [
         {
@@ -13141,7 +13140,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
-      ]
+      ],
+      "id": "yan_human_learning"
     },
     {
       "label": "AI Agent",
@@ -13152,8 +13152,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "yan_ai_agent",
-      "community": 1,
+      "community": 23,
       "norm_label": "ai agent",
       "pdf_links": [
         {
@@ -13162,7 +13161,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
-      ]
+      ],
+      "id": "yan_ai_agent"
     },
     {
       "label": "Zone of Proximal Development",
@@ -13173,8 +13173,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "yan_zone_proximal",
-      "community": 1,
+      "community": 24,
       "norm_label": "zone of proximal development",
       "pdf_links": [
         {
@@ -13183,7 +13182,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
-      ]
+      ],
+      "id": "yan_zone_proximal"
     },
     {
       "label": "Inquiry-Based Learning",
@@ -13194,8 +13194,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "yan_inquiry_learning",
-      "community": 1,
+      "community": 24,
       "norm_label": "inquiry-based learning",
       "pdf_links": [
         {
@@ -13204,34 +13203,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
-      ]
-    },
-    {
-      "label": "Large Language Models",
-      "file_type": "paper",
-      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
-      "source_location": null,
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "id": "sharma_llm",
-      "community": 1,
-      "norm_label": "large language models",
-      "pdf_links": [
-        {
-          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-        },
-        {
-          "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
-          "label": "2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
-          "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
-        }
-      ]
+      ],
+      "id": "yan_inquiry_learning"
     },
     {
       "label": "Personalized Learning",
@@ -13242,8 +13215,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sharma_personalized_learning",
-      "community": 1,
+      "community": 23,
       "norm_label": "personalized learning",
       "pdf_links": [
         {
@@ -13258,7 +13230,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
-      ]
+      ],
+      "id": "sharma_personalized_learning"
     },
     {
       "label": "Student Engagement",
@@ -13269,8 +13242,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sharma_student_engagement",
-      "community": 1,
+      "community": 15,
       "norm_label": "student engagement",
       "pdf_links": [
         {
@@ -13279,7 +13251,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
-      ]
+      ],
+      "id": "sharma_student_engagement"
     },
     {
       "label": "Emotional and Social Development",
@@ -13290,8 +13263,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sharma_emotional_social",
-      "community": 1,
+      "community": 15,
       "norm_label": "emotional and social development",
       "pdf_links": [
         {
@@ -13300,7 +13272,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
-      ]
+      ],
+      "id": "sharma_emotional_social"
     },
     {
       "label": "Real-time Progress Monitoring",
@@ -13311,8 +13284,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sharma_progress_monitoring",
-      "community": 1,
+      "community": 15,
       "norm_label": "real-time progress monitoring",
       "pdf_links": [
         {
@@ -13321,7 +13293,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
-      ]
+      ],
+      "id": "sharma_progress_monitoring"
     },
     {
       "label": "Fair Examination Environment",
@@ -13332,8 +13305,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sharma_exam_environment",
-      "community": 1,
+      "community": 15,
       "norm_label": "fair examination environment",
       "pdf_links": [
         {
@@ -13342,7 +13314,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
-      ]
+      ],
+      "id": "sharma_exam_environment"
     },
     {
       "label": "Ethical Challenges and Privacy",
@@ -13353,8 +13326,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sharma_ethics_privacy",
-      "community": 1,
+      "community": 15,
       "norm_label": "ethical challenges and privacy",
       "pdf_links": [
         {
@@ -13363,7 +13335,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
-      ]
+      ],
+      "id": "sharma_ethics_privacy"
     },
     {
       "label": "Hattie's Review",
@@ -13374,8 +13347,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sharma_hattie",
-      "community": 1,
+      "community": 22,
       "norm_label": "hattie's review",
       "pdf_links": [
         {
@@ -13384,7 +13356,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
-      ]
+      ],
+      "id": "sharma_hattie"
     },
     {
       "label": "Traditional Education",
@@ -13395,8 +13368,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sharma_traditional_edu",
-      "community": 1,
+      "community": 22,
       "norm_label": "traditional education",
       "pdf_links": [
         {
@@ -13405,7 +13377,8 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
-      ]
+      ],
+      "id": "sharma_traditional_edu"
     },
     {
       "label": "AI in Education Market",
@@ -13416,8 +13389,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "sharma_ai_market",
-      "community": 1,
+      "community": 17,
       "norm_label": "ai in education market",
       "pdf_links": [
         {
@@ -13426,7 +13398,526 @@
           "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
+      ],
+      "id": "sharma_ai_market"
+    },
+    {
+      "label": "Large Language Models",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
+      "source_location": null,
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "yan_llm",
+      "community": 23,
+      "norm_label": "large language models",
+      "pdf_links": [
+        {
+          "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
+          "label": "2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
+          "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
+        }
       ]
+    },
+    {
+      "label": "Intelligent Tutoring Systems",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
+      "source_location": null,
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "sharma_intelligent_tutoring",
+      "community": 23,
+      "norm_label": "intelligent tutoring systems",
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ]
+    },
+    {
+      "label": "Feedback as Incentive Study (Bälter et al., 2011)",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.md",
+      "id": "2011_balter_et_al",
+      "community": 30,
+      "norm_label": "feedback as incentive study (balter et al., 2011)",
+      "pdf_links": [
+        {
+          "id": "6bc93e51-f8f8-4d82-b038-6c614c452eff",
+          "label": "2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+        }
+      ],
+      "source_url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+    },
+    {
+      "label": "Web-based Questionnaire System",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.md",
+      "id": "web_questionnaire",
+      "community": 26,
+      "norm_label": "web-based questionnaire system",
+      "pdf_links": [
+        {
+          "id": "6bc93e51-f8f8-4d82-b038-6c614c452eff",
+          "label": "2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+        }
+      ],
+      "source_url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+    },
+    {
+      "label": "Personalized Feedback Mechanism",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.md",
+      "id": "personalized_feedback",
+      "community": 26,
+      "norm_label": "personalized feedback mechanism",
+      "pdf_links": [
+        {
+          "id": "6bc93e51-f8f8-4d82-b038-6c614c452eff",
+          "label": "2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+        }
+      ],
+      "source_url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+    },
+    {
+      "label": "Study Compliance Rate Metric",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.md",
+      "id": "compliance_rate",
+      "community": 29,
+      "norm_label": "study compliance rate metric",
+      "pdf_links": [
+        {
+          "id": "6bc93e51-f8f8-4d82-b038-6c614c452eff",
+          "label": "2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+        }
+      ],
+      "source_url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+    },
+    {
+      "label": "LIME Cohort Study on Lifestyle Factors",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.md",
+      "id": "lifestyle_factors_study",
+      "community": 29,
+      "norm_label": "lime cohort study on lifestyle factors",
+      "pdf_links": [
+        {
+          "id": "6bc93e51-f8f8-4d82-b038-6c614c452eff",
+          "label": "2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2011_balter-et-al_feedback-in-web-questionnaires-as-incentive.pdf",
+          "url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+        }
+      ],
+      "source_url": "/pdf?openId=6bc93e51-f8f8-4d82-b038-6c614c452eff"
+    },
+    {
+      "label": "Short Formative Diagnostic Web Quizzes (Bälter et al., 2013)",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.md",
+      "id": "short_formative_quiz",
+      "community": 25,
+      "norm_label": "short formative diagnostic web quizzes (balter et al., 2013)",
+      "pdf_links": [
+        {
+          "id": "978216c3-3999-40e6-a24a-fd0daf3dc02a",
+          "label": "2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.pdf",
+          "url": "/pdf?openId=978216c3-3999-40e6-a24a-fd0daf3dc02a"
+        }
+      ],
+      "source_url": "/pdf?openId=978216c3-3999-40e6-a24a-fd0daf3dc02a"
+    },
+    {
+      "label": "Binary Feedback Mechanism",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.md",
+      "id": "binary_feedback",
+      "community": 25,
+      "norm_label": "binary feedback mechanism",
+      "pdf_links": [
+        {
+          "id": "978216c3-3999-40e6-a24a-fd0daf3dc02a",
+          "label": "2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.pdf",
+          "url": "/pdf?openId=978216c3-3999-40e6-a24a-fd0daf3dc02a"
+        }
+      ],
+      "source_url": "/pdf?openId=978216c3-3999-40e6-a24a-fd0daf3dc02a"
+    },
+    {
+      "label": "Generic Question Format in Quizzes",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.md",
+      "id": "generic_questions",
+      "community": 25,
+      "norm_label": "generic question format in quizzes",
+      "pdf_links": [
+        {
+          "id": "978216c3-3999-40e6-a24a-fd0daf3dc02a",
+          "label": "2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.pdf",
+          "url": "/pdf?openId=978216c3-3999-40e6-a24a-fd0daf3dc02a"
+        }
+      ],
+      "source_url": "/pdf?openId=978216c3-3999-40e6-a24a-fd0daf3dc02a"
+    },
+    {
+      "label": "Study Habits Improvement Outcome",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.md",
+      "id": "study_habits_improvement",
+      "community": 25,
+      "norm_label": "study habits improvement outcome",
+      "pdf_links": [
+        {
+          "id": "978216c3-3999-40e6-a24a-fd0daf3dc02a",
+          "label": "2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2012_balter-et-al_effect-of-short-formative-diagnostic-web-quizzes.pdf",
+          "url": "/pdf?openId=978216c3-3999-40e6-a24a-fd0daf3dc02a"
+        }
+      ],
+      "source_url": "/pdf?openId=978216c3-3999-40e6-a24a-fd0daf3dc02a"
+    },
+    {
+      "label": "Personalized Email Reminder System (Bälter et al., 2023)",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2023_balter-et-al_personalized-email-reminders-timeliness.md",
+      "id": "email_reminder_system",
+      "community": 26,
+      "norm_label": "personalized email reminder system (balter et al., 2023)",
+      "pdf_links": [
+        {
+          "id": "e2d35807-e910-47ff-9d03-cc1c7c612dce",
+          "label": "2023_balter-et-al_personalized-email-reminders-timeliness.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2023_balter-et-al_personalized-email-reminders-timeliness.pdf",
+          "url": "/pdf?openId=e2d35807-e910-47ff-9d03-cc1c7c612dce"
+        }
+      ],
+      "source_url": "/pdf?openId=e2d35807-e910-47ff-9d03-cc1c7c612dce"
+    },
+    {
+      "label": "Pure Question-Based Learning (pQBL)",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "2024_jemstedt-balter_pqbl",
+      "community": 33,
+      "norm_label": "pure question-based learning (pqbl)",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Question-Based Learning (QBL)",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "2024_jemstedt-balter_qbl",
+      "community": 34,
+      "norm_label": "question-based learning (qbl)",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Jemstedt et al. (2024) Study on IT Security Course",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "jemstedt_balter_2024_study",
+      "community": 8,
+      "norm_label": "jemstedt et al. (2024) study on it security course",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Swedish Employment Agency Participants (N=492)",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "swedish_employment_agency_participants",
+      "community": 8,
+      "norm_label": "swedish employment agency participants (n=492)",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Passive Learning Concept",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "passive_learning_concept",
+      "community": 8,
+      "norm_label": "passive learning concept",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Doer Effect Theory (Koedinger et al.)",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "doer_effect_theory",
+      "community": 8,
+      "norm_label": "doer effect theory (koedinger et al.)",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Retrieval Practice Theory (Adesope et al.)",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "retrieval_practice_theory",
+      "community": 8,
+      "norm_label": "retrieval practice theory (adesope et al.)",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Székely (1950) Study on Try-First Approach",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "szekely_1950_study",
+      "community": 8,
+      "norm_label": "szekely (1950) study on try-first approach",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Koedinger et al. (2016) MOOC Study on Active Learning",
+      "file_type": "paper",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "koedinger_2016_study",
+      "community": 8,
+      "norm_label": "koedinger et al. (2016) mooc study on active learning",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Open Learning Initiative (OLI)",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "open_learning_initiative_oli",
+      "community": 8,
+      "norm_label": "open learning initiative (oli)",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Formative Feedback Methodology",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "formative_feedback_method",
+      "community": 8,
+      "norm_label": "formative feedback methodology",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Multiple-Choice Question (MCQ) Assessment Tool",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "mcq_assessment_tool",
+      "community": 8,
+      "norm_label": "multiple-choice question (mcq) assessment tool",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Canvas Learning Management System Platform",
+      "file_type": "code",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "canvas_learning_platform",
+      "community": 8,
+      "norm_label": "canvas learning management system platform",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Torus (Open Learning Initiative) Software Tool",
+      "file_type": "code",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "torus_software_tool",
+      "community": 8,
+      "norm_label": "torus (open learning initiative) software tool",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Learning Outcomes Metric (Quality)",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "learning_outcomes_metric",
+      "community": 8,
+      "norm_label": "learning outcomes metric (quality)",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Course Completion Time Metric",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "completion_time_metric",
+      "community": 8,
+      "norm_label": "course completion time metric",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+    },
+    {
+      "label": "Learner Experience Survey (13 items)",
+      "file_type": "concept",
+      "source_file": "schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.md",
+      "captured_at": null,
+      "id": "learner_experience_survey",
+      "community": 8,
+      "norm_label": "learner experience survey (13 items)",
+      "pdf_links": [
+        {
+          "id": "25a78776-0f53-4195-8b02-c2b0ed2bdc28",
+          "label": "2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_jemstedt-balter_less-to-produce-less-to-consume-pure-question-based-learning.pdf",
+          "url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
+        }
+      ],
+      "source_url": "/pdf?openId=25a78776-0f53-4195-8b02-c2b0ed2bdc28"
     }
   ],
   "links": [
@@ -19115,6 +19606,139 @@
       "target": "2023_susnjak_bert"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
+      "source_location": null,
+      "weight": 1,
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ],
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "llm",
+      "target": "sharma_emotional_social"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
+      "source_location": null,
+      "weight": 1,
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ],
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "llm",
+      "target": "sharma_ethics_privacy"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
+      "source_location": null,
+      "weight": 1,
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ],
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "llm",
+      "target": "sharma_exam_environment"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
+      "source_location": null,
+      "weight": 1,
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ],
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "llm",
+      "target": "sharma_local_llm"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
+      "source_location": null,
+      "weight": 1,
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ],
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "llm",
+      "target": "sharma_personalized_learning"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
+      "source_location": null,
+      "weight": 1,
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ],
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "llm",
+      "target": "sharma_progress_monitoring"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
+      "source_location": null,
+      "weight": 1,
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ],
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "llm",
+      "target": "sharma_student_engagement"
+    },
+    {
       "relation": "implements",
       "confidence": "EXTRACTED",
       "confidence_score": 1,
@@ -19134,14 +19758,31 @@
       "target": "susnjak_chatgpt"
     },
     {
-      "relation": "implements",
+      "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1,
+      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
+      "source_location": null,
+      "weight": 1,
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ],
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "sharma_ai_tpack",
+      "target": "llm"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.8,
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "yan_genai",
-      "target": "llm",
       "pdf_links": [
         {
           "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
@@ -19150,7 +19791,9 @@
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
       ],
-      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "source": "yan_genai",
+      "target": "llm"
     },
     {
       "relation": "references",
@@ -19645,6 +20288,26 @@
       "source_url": "/pdf?openId=826d39b3-5310-4644-b82c-32d677089cd8",
       "source": "interactive_machine_learning",
       "target": "active_learning"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.75,
+      "weight": 1,
+      "source": "active_learning",
+      "target": "passive_learning_concept",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "active_learning",
+      "pdf_links": [],
+      "source_url": null
     },
     {
       "relation": "implements",
@@ -28166,8 +28829,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2023_noy_zhang_occupations",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28176,7 +28837,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2023_noy_zhang_occupations"
     },
     {
       "relation": "measured_by",
@@ -28185,8 +28848,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2023_noy_zhang_quality",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28195,7 +28856,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2023_noy_zhang_quality"
     },
     {
       "relation": "measured_by",
@@ -28204,8 +28867,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2023_noy_zhang_time",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28214,7 +28875,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2023_noy_zhang_time"
     },
     {
       "relation": "references",
@@ -28223,8 +28886,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2024_banihashem_chatgpt",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28233,7 +28894,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2024_banihashem_chatgpt"
     },
     {
       "relation": "conceptually_related_to",
@@ -28242,8 +28905,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2024_banihashem_complementary",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28252,7 +28913,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2024_banihashem_complementary"
     },
     {
       "relation": "conceptually_related_to",
@@ -28261,8 +28924,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2024_banihashem_descriptive",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28271,7 +28932,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2024_banihashem_descriptive"
     },
     {
       "relation": "conceptually_related_to",
@@ -28280,8 +28943,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2024_banihashem_essay_quality",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28290,7 +28951,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2024_banihashem_essay_quality"
     },
     {
       "relation": "conceptually_related_to",
@@ -28299,8 +28962,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2024_banihashem_feedback",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28309,7 +28970,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2024_banihashem_feedback"
     },
     {
       "relation": "conceptually_related_to",
@@ -28318,8 +28981,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2024_banihashem_feedbackfruits",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28328,7 +28989,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2024_banihashem_feedbackfruits"
     },
     {
       "relation": "conceptually_related_to",
@@ -28337,8 +29000,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2024_banihashem_manova",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28347,7 +29008,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2024_banihashem_manova"
     },
     {
       "relation": "conceptually_related_to",
@@ -28356,8 +29019,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2024_banihashem_problem_id",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28366,7 +29027,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2024_banihashem_problem_id"
     },
     {
       "relation": "conceptually_related_to",
@@ -28375,8 +29038,6 @@
       "source_file": "schede/pdfs/2023_noy-zhang_experimental-evidence-on-the-productivity-effects-of-generative-ai.md",
       "source_location": null,
       "weight": 1,
-      "source": "2023_noy_zhang_productivity",
-      "target": "2024_banihashem_spearman",
       "pdf_links": [
         {
           "id": "1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
@@ -28385,7 +29046,9 @@
           "url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
         }
       ],
-      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936"
+      "source_url": "/pdf?openId=1ae3dbcc-d3fb-4d3a-a0e1-eb4c89a15936",
+      "source": "2023_noy_zhang_productivity",
+      "target": "2024_banihashem_spearman"
     },
     {
       "relation": "semantically_similar_to",
@@ -28413,8 +29076,6 @@
       "source_file": "schede/pdfs/2024_banihashem-et-al_feedback-sources-in-essay-writing.md",
       "source_location": null,
       "weight": 1,
-      "source": "2024_banihashem_feedback",
-      "target": "2023_noy_zhang_chatgpt",
       "pdf_links": [
         {
           "id": "503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
@@ -28423,7 +29084,9 @@
           "url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
         }
       ],
-      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
+      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
+      "source": "2024_banihashem_feedback",
+      "target": "2023_noy_zhang_chatgpt"
     },
     {
       "relation": "conceptually_related_to",
@@ -28451,8 +29114,6 @@
       "source_file": "schede/pdfs/2024_banihashem-et-al_feedback-sources-in-essay-writing.md",
       "source_location": null,
       "weight": 1,
-      "source": "2024_banihashem_feedback",
-      "target": "2023_noy_zhang_inequality",
       "pdf_links": [
         {
           "id": "503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
@@ -28461,7 +29122,9 @@
           "url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
         }
       ],
-      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
+      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
+      "source": "2024_banihashem_feedback",
+      "target": "2023_noy_zhang_inequality"
     },
     {
       "relation": "uses",
@@ -28470,8 +29133,6 @@
       "source_file": "schede/pdfs/2024_banihashem-et-al_feedback-sources-in-essay-writing.md",
       "source_location": null,
       "weight": 1,
-      "source": "2024_banihashem_feedback",
-      "target": "2024_banihashem_chatgpt",
       "pdf_links": [
         {
           "id": "503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
@@ -28480,7 +29141,9 @@
           "url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
         }
       ],
-      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
+      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
+      "source": "2024_banihashem_feedback",
+      "target": "2024_banihashem_chatgpt"
     },
     {
       "relation": "compares_with",
@@ -28508,8 +29171,6 @@
       "source_file": "schede/pdfs/2024_banihashem-et-al_feedback-sources-in-essay-writing.md",
       "source_location": null,
       "weight": 1,
-      "source": "2024_banihashem_feedback",
-      "target": "2024_banihashem_complementary",
       "pdf_links": [
         {
           "id": "503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
@@ -28518,7 +29179,9 @@
           "url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
         }
       ],
-      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
+      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
+      "source": "2024_banihashem_feedback",
+      "target": "2024_banihashem_complementary"
     },
     {
       "relation": "measures",
@@ -28546,8 +29209,6 @@
       "source_file": "schede/pdfs/2024_banihashem-et-al_feedback-sources-in-essay-writing.md",
       "source_location": null,
       "weight": 1,
-      "source": "2024_banihashem_feedback",
-      "target": "2024_banihashem_feedbackfruits",
       "pdf_links": [
         {
           "id": "503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
@@ -28556,7 +29217,9 @@
           "url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
         }
       ],
-      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
+      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
+      "source": "2024_banihashem_feedback",
+      "target": "2024_banihashem_feedbackfruits"
     },
     {
       "relation": "context_of",
@@ -28755,8 +29418,6 @@
       "source_file": "schede/pdfs/2024_banihashem-et-al_feedback-sources-in-essay-writing.md",
       "source_location": null,
       "weight": 1,
-      "source": "2024_banihashem_peer_feedback",
-      "target": "2024_banihashem_problem_id",
       "pdf_links": [
         {
           "id": "503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
@@ -28765,7 +29426,9 @@
           "url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
         }
       ],
-      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
+      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
+      "source": "2024_banihashem_peer_feedback",
+      "target": "2024_banihashem_problem_id"
     },
     {
       "relation": "semantically_similar_to",
@@ -28918,8 +29581,6 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "yan_genai",
-      "target": "yan_khanmigo",
       "pdf_links": [
         {
           "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
@@ -28928,7 +29589,9 @@
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
       ],
-      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "source": "yan_genai",
+      "target": "yan_khanmigo"
     },
     {
       "relation": "implements",
@@ -28937,8 +29600,6 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "yan_khanmigo",
-      "target": "yan_inquiry_learning",
       "pdf_links": [
         {
           "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
@@ -28947,7 +29608,9 @@
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
       ],
-      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "source": "yan_khanmigo",
+      "target": "yan_inquiry_learning"
     },
     {
       "relation": "references",
@@ -28956,8 +29619,6 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "yan_khanmigo",
-      "target": "yan_vygotsky",
       "pdf_links": [
         {
           "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
@@ -28966,7 +29627,9 @@
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
       ],
-      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "source": "yan_khanmigo",
+      "target": "yan_vygotsky"
     },
     {
       "relation": "implements",
@@ -28975,8 +29638,6 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "yan_khanmigo",
-      "target": "yan_zone_proximal",
       "pdf_links": [
         {
           "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
@@ -28985,7 +29646,9 @@
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
       ],
-      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "source": "yan_khanmigo",
+      "target": "yan_zone_proximal"
     },
     {
       "relation": "shares_data_with",
@@ -29030,8 +29693,6 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "yan_genai",
-      "target": "yan_diffusion",
       "pdf_links": [
         {
           "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
@@ -29040,7 +29701,9 @@
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
       ],
-      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "source": "yan_genai",
+      "target": "yan_diffusion"
     },
     {
       "relation": "references",
@@ -29175,8 +29838,6 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "sharma_personalized_learning",
-      "target": "sharma_its",
       "pdf_links": [
         {
           "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
@@ -29185,7 +29846,9 @@
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
       ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "sharma_personalized_learning",
+      "target": "sharma_its"
     },
     {
       "relation": "shares_data_with",
@@ -29212,8 +29875,6 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "sharma_traditional_edu",
-      "target": "sharma_piaget",
       "pdf_links": [
         {
           "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
@@ -29222,7 +29883,9 @@
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
       ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "sharma_traditional_edu",
+      "target": "sharma_piaget"
     },
     {
       "relation": "references",
@@ -29231,36 +29894,17 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "source_location": null,
       "weight": 1,
+      "pdf_links": [
+        {
+          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
+          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+        }
+      ],
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
       "source": "sharma_traditional_edu",
-      "target": "sharma_vygotsky",
-      "pdf_links": [
-        {
-          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-        }
-      ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1,
-      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
-      "source_location": null,
-      "weight": 1,
-      "source": "sharma_ai_tpack",
-      "target": "sharma_llm",
-      "pdf_links": [
-        {
-          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-        }
-      ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+      "target": "sharma_vygotsky"
     },
     {
       "relation": "shares_data_with",
@@ -29281,33 +29925,12 @@
       "target": "sharma_ai_tpack"
     },
     {
-      "relation": "implements",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1,
-      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
-      "source_location": null,
-      "weight": 1,
-      "source": "sharma_llm",
-      "target": "sharma_local_llm",
-      "pdf_links": [
-        {
-          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-        }
-      ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-    },
-    {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1,
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "sharma_local_llm",
-      "target": "sharma_ai_market",
       "pdf_links": [
         {
           "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
@@ -29316,7 +29939,9 @@
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
       ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
+      "source": "sharma_local_llm",
+      "target": "sharma_ai_market"
     },
     {
       "relation": "references",
@@ -29343,8 +29968,6 @@
       "source_file": "schede/pdfs/2024_banihashem-et-al_feedback-sources-in-essay-writing.md",
       "source_location": null,
       "weight": 1,
-      "source": "2024_banihashem_chatgpt",
-      "target": "2024_banihashem_descriptive",
       "pdf_links": [
         {
           "id": "503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
@@ -29353,17 +29976,17 @@
           "url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
         }
       ],
-      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4"
+      "source_url": "/pdf?openId=503a0303-0887-4bd1-b3cc-f29f8b84a4e4",
+      "source": "2024_banihashem_chatgpt",
+      "target": "2024_banihashem_descriptive"
     },
     {
-      "relation": "semantically_similar_to",
-      "confidence": "AMBIGUOUS",
-      "confidence_score": 0.8,
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "yan_genai",
-      "target": "sharma_llm",
       "pdf_links": [
         {
           "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
@@ -29372,7 +29995,28 @@
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
       ],
-      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "source": "yan_genai",
+      "target": "yan_ai_agent"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
+      "source_location": null,
+      "weight": 1,
+      "pdf_links": [
+        {
+          "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
+          "label": "2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
+          "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
+          "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
+        }
+      ],
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "source": "yan_genai",
+      "target": "yan_human_learning"
     },
     {
       "relation": "implements",
@@ -29382,26 +30026,7 @@
       "source_location": null,
       "weight": 1,
       "source": "yan_genai",
-      "target": "yan_ai_agent",
-      "pdf_links": [
-        {
-          "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
-          "label": "2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.pdf",
-          "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
-        }
-      ],
-      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1,
-      "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
-      "source_location": null,
-      "weight": 1,
-      "source": "yan_genai",
-      "target": "yan_human_learning",
+      "target": "yan_llm",
       "pdf_links": [
         {
           "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
@@ -29419,8 +30044,6 @@
       "source_file": "schede/pdfs/2024_yan-et-al_promises-and-challenges-of-generative-ai-for-human-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "yan_human_learning",
-      "target": "sharma_personalized_learning",
       "pdf_links": [
         {
           "id": "d160b80d-c130-406a-87e9-48fc2090bf50",
@@ -29429,64 +30052,9 @@
           "url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
         }
       ],
-      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1,
-      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
-      "source_location": null,
-      "weight": 1,
-      "source": "sharma_llm",
-      "target": "sharma_emotional_social",
-      "pdf_links": [
-        {
-          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-        }
-      ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1,
-      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
-      "source_location": null,
-      "weight": 1,
-      "source": "sharma_llm",
-      "target": "sharma_ethics_privacy",
-      "pdf_links": [
-        {
-          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-        }
-      ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1,
-      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
-      "source_location": null,
-      "weight": 1,
-      "source": "sharma_llm",
-      "target": "sharma_exam_environment",
-      "pdf_links": [
-        {
-          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-        }
-      ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+      "source_url": "/pdf?openId=d160b80d-c130-406a-87e9-48fc2090bf50",
+      "source": "yan_human_learning",
+      "target": "sharma_personalized_learning"
     },
     {
       "relation": "implements",
@@ -29495,8 +30063,8 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "sharma_llm",
-      "target": "sharma_personalized_learning",
+      "source": "sharma_personalized_learning",
+      "target": "sharma_intelligent_tutoring",
       "pdf_links": [
         {
           "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
@@ -29514,8 +30082,6 @@
       "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
       "source_location": null,
       "weight": 1,
-      "source": "sharma_llm",
-      "target": "sharma_progress_monitoring",
       "pdf_links": [
         {
           "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
@@ -29524,45 +30090,219 @@
           "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
         }
       ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1,
-      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
-      "source_location": null,
-      "weight": 1,
-      "source": "sharma_llm",
-      "target": "sharma_student_engagement",
-      "pdf_links": [
-        {
-          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-        }
-      ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1,
-      "source_file": "schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.md",
-      "source_location": null,
-      "weight": 1,
+      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b",
       "source": "sharma_traditional_edu",
-      "target": "sharma_hattie",
-      "pdf_links": [
-        {
-          "id": "e3f475c8-90ca-422f-b44d-5799a8abeb0b",
-          "label": "2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "path": "Prin-article-counslorbot/schede/pdfs/2025_sharma-et-al_role-of-llms-in-personalized-learning.pdf",
-          "url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
-        }
-      ],
-      "source_url": "/pdf?openId=e3f475c8-90ca-422f-b44d-5799a8abeb0b"
+      "target": "sharma_hattie"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.7,
+      "weight": 1,
+      "source": "email_reminder_system",
+      "target": "web_questionnaire",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "weight": 1,
+      "source": "web_questionnaire",
+      "target": "personalized_feedback",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "measures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "lifestyle_factors_study",
+      "target": "compliance_rate",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "short_formative_quiz",
+      "target": "binary_feedback",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "short_formative_quiz",
+      "target": "generic_questions",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "influenced_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 1,
+      "source": "study_habits_improvement",
+      "target": "binary_feedback",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "canvas_learning_platform",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "measures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "completion_time_metric",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "doer_effect_theory",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "implements|uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "formative_feedback_method",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "cites|references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "koedinger_2016_study",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "implements|uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "learner_experience_survey",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "measures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "learning_outcomes_metric",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "implements|uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "mcq_assessment_tool",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "open_learning_initiative_oli",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "cites|references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "passive_learning_concept",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "cites|references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "retrieval_practice_theory",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "cites|references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "swedish_employment_agency_participants",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "szekely_1950_study",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "implements|uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1,
+      "weight": 1,
+      "source": "jemstedt_balter_2024_study",
+      "target": "torus_software_tool",
+      "pdf_links": [],
+      "source_url": null
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 1,
+      "source": "doer_effect_theory",
+      "target": "retrieval_practice_theory",
+      "pdf_links": [],
+      "source_url": null
     }
   ],
   "hyperedges": []
