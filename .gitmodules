@@ -7,3 +7,6 @@
 [submodule ".claude/skills/bibliography-verify"]
 	path = .claude/skills/bibliography-verify
 	url = https://github.com/nugh75/bibliography-verify-skill.git
+[submodule ".claude/skills/article-composer"]
+	path = .claude/skills/article-composer
+	url = https://github.com/nugh75/article-composer.git
