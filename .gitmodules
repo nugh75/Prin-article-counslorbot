@@ -10,3 +10,6 @@
 [submodule ".claude/skills/article-composer"]
 	path = .claude/skills/article-composer
 	url = https://github.com/nugh75/article-composer.git
+[submodule ".claude/skills/anti-dyslexia"]
+	path = .claude/skills/anti-dyslexia
+	url = https://github.com/nugh75/anti-dyslexia-skill.git
