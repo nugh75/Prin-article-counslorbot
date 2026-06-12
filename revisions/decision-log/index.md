@@ -18,6 +18,7 @@ Registro cronologico delle interazioni umane–macchina sull'articolo
 | [011](session-011.md) | 2026-05-26 | opencode | revision-bibliography | accepted | Rimosse 4 referenze non open access (Arshad, Ahmad, Sun, Yupelmi). Bib ridotta a 36 entry. |
 | [012](session-012.md) | 2026-06-09 | opencode | revision-content | accepted | Revisione §1: sistema→chatbot, evoluzione rule-based→ML→LLM, dibattito comprensione, Wollny/sistemi pre-GenAI, ruolo umano, tono. |
 | [013](session-013.md) | 2026-06-10 | opencode | revision-global | accepted | Revisione Globale: ristrutturazione §1.1 e §2, scrittura sezioni mancanti (§3.3, §4.3, §5, §6), abstract, tesi, tabella comparativa SBS vs ai4educ, reinserimento 6 citazioni. |
+| [014](session-014.md) | 2026-06-12 | opencode | compose-refine | accepted | ToV polish, coherence check, grill, revisioni varie (10 decisioni) |
 
 ---
 *Abbreviazioni:* A = accepted · R = rejected · M = modified · D = deferred · P = partial

@@ -1,6 +1,6 @@
 # Bibliografia
 
-_Aggiornata automaticamente da `reference.bib` il 2026-06-12T08:29:59.176Z._
+_Aggiornata automaticamente da `reference.bib` il 2026-06-12T09:54:58.975Z._
 
 - Akata, Zeynep and Balliet, Dan and de Rijke, Maarten and Dignum, Frank and Dignum, Virginia and Eiben, Guszti and Fokkens, Antske and Grossi, Davide and Hindriks, Koen and Hoos, Holger and Hung, Hayley and Jonker, Catholijn and Monz, Christof and Neerincx, Mark and Oliehoek, Frans and Prakken, Henry and Schlobach, Stefan and van der Gaag, Linda and van Harmelen, Frank and van Hoof, Herke and van Riemsdijk, Birna and van Wynsberghe, Aimee and Verbrugge, Rineke and Verheij, Bart and Vossen, Piek and Welling, Max (2020). **A Research Agenda for Hybrid Intelligence: Augmenting Human Intellect With Collaborative, Adaptive, Responsible, and Explainable Artificial Intelligence**. [DOI](https://doi.org/10.1109/MC.2020.2996587) `akata2020`
 - Amershi, Saleema and Cakmak, Maya and Knox, W. Bradley and Kulesza, Todd (2014). **Power to the People: The Role of Humans in Interactive Machine Learning**. [DOI](https://doi.org/10.1609/aimag.v35i4.2513) `amershi2014`
