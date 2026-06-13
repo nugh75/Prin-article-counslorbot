@@ -25,7 +25,7 @@
 
 ### 5. Sostituzione citazione Akata → Puech et al.
 - **Decisione:** accepted
-- **Dettaglio:** Rimossa citazione Akata et al. 2020 (non pertinente: HI uomo-macchina). Sostituita con Puech et al. 2025 (Pedagogical Steering of LLMs). PDF scaricato in schede/pdfs/.
+- **Dettaglio:** Rimossa citazione Akata et al. 2020 (non pertinente: HI uomo-macchina). Sostituita con Puech et al. 2025 (Pedagogical Steering of LLMs). PDF scaricato in bibliography/pdf/.
 
 ### 6. Aggiunta gloss ADDIE
 - **Decisione:** accepted

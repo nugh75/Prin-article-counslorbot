@@ -1,4 +1,4 @@
-.PHONY: pdf-on pdf-open pdf-off
+.PHONY: pdf-on pdf-open pdf-off docx sync docx-serve
 
 pdf-on: pdf-open
 
@@ -10,3 +10,18 @@ pdf-open:
 pdf-off:
 	@echo "Il server PDF non è più un processo separato (nginx integrato)."
 	@echo "Nessuna azione necessaria."
+
+# --- Conversione articolo ---
+
+docx: articles/current.docx
+
+articles/current.docx: articles/current.md scripts/sync-and-convert.sh scripts/create-docx-template.py
+	@scripts/sync-and-convert.sh
+	@echo "✓ current.docx aggiornato"
+
+sync:
+	@scripts/sync-and-convert.sh --sync-source
+
+docx-serve:
+	@echo "Apri: https://code.ai4educ.org/pdf/current.docx"
+	@echo "Oppure: file://$(PWD)/articles/current.docx"
