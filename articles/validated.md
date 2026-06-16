@@ -1,0 +1,1 @@
+article-v25-2026-06-15-0943-validated.md

@@ -4,7 +4,12 @@ Registro cronologico delle interazioni umane–macchina sull'articolo
 *Counselorbot: un assistente AI per il counseling*.
 
 | Sessione | Data | Tool | Tipo | Decisione | Oggetto |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
+| [022](session-022.md) | 2026-06-15 | opencode | revision-argument-flow | accepted | Revisione flusso argomentativo v25(validated)→v26: applicazione piano 7 fasi / 21 punti (P0-P21) |
+| [021](session-021.md) | 2026-06-15 | opencode | revision-global | accepted-validated | Revisione globale v25(validated): tesi, architettura, arco narrativo, ridondanza, terminologia, coerenza strumenti, consistenza numerica |
+| [020](session-020.md) | 2026-06-15 | opencode | revision-global | accepted | Revisione globale v23: successione argomentativa, ordine dei concetti, rinvii interni e collocazione sezioni |
+| [019](session-019.md) | 2026-06-15 | opencode | revision-proofreading | accepted | Revisione v23: bump iniziale, indice, nota biografica, refusi, punteggiatura e coerenza terminologica |
+| [018](session-018.md) | 2026-06-14 | codex | revision-global | accepted | Revisione v18: tesi, fase esplorativa, riposizionamento benchmark, refusi |
 | [001](session-001.md) | 2026-05-26 | opencode | setup-project | accepted | Inizializzazione progetto |
 | [002](session-002.md) | 2026-05-26 | opencode | revision-bibliography | accepted | Popolamento reference.bib (19 ref) |
 | [003](session-003.md) | 2026-05-26 | opencode | revision-structure | accepted | Struttura articolo in 7 sezioni |
