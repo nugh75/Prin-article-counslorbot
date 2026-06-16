@@ -25,6 +25,27 @@ Prin-article-counslorbot/
 │   ├── article-v8-2026-06-12-1600.md
 │   ├── article-v9-2026-06-12-2138.md
 │   ├── article-v10-2026-06-12-2320.md
+│   ├── article-v11-2026-06-13-1807.md
+│   ├── article-v12-2026-06-13-1652.md
+│   ├── article-v13-2026-06-14-0957.md
+│   ├── article-v13-2026-06-14-0957-temp.md
+│   ├── article-v13-2026-06-14-0957-test.md
+│   ├── article-v14-2026-06-14-1144.md
+│   ├── article-v15-2026-06-14-1152-drive.md
+│   ├── article-v16-2026-06-14-1316-drive.md
+│   ├── article-v17-2026-06-14-1616-drive.md
+│   ├── article-v18-2026-06-14-1829-drive.md
+│   ├── article-v19-2026-06-14-1916.md
+│   ├── article-v20-2026-06-15-0511-drive.md
+│   ├── article-v21-2026-06-15-0521-drive.md
+│   ├── article-v22-2026-06-15-0732.md
+│   ├── article-v23-2026-06-15-1030.md
+│   ├── article-v24-2026-06-15-1100.md
+│   ├── article-v25-2026-06-15-0943.md
+│   ├── article-v25-2026-06-15-0943-validated.md
+│   ├── article-v26-2026-06-15-1826-deprecated.md
+│   ├── article-v27-2026-06-15-1901.md
+│   ├── article-v28-2026-06-16-0540-drive.md
 │   ├── current.md
 │   ├── current.docx
 │   ├── reference.docx
@@ -69,7 +90,7 @@ Prin-article-counslorbot/
 ├── revisions/
 │   ├── decision-log/
 │   │   ├── index.md
-│   │   └── session-001.md ... session-017.md
+│   │   └── session-001.md ... session-022.md
 │   └── task.md
 ├── scripts/
 │   ├── create-docx-template.py
