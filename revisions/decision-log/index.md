@@ -5,6 +5,7 @@ Registro cronologico delle interazioni umane–macchina sull'articolo
 
 | Sessione | Data | Tool | Tipo | Decisione | Oggetto |
 |---|---|---|---|---|---|---|
+| [023](session-023.md) | 2026-06-16 | opencode | revision-conclusions | accepted | Revisione §6 Conclusioni v32: RQ esplicite, riformulazione investimento, direzioni future su 3 orizzonti, fine-tuning dati anonimizzati, Gemma 4 12B |
 | [022](session-022.md) | 2026-06-15 | opencode | revision-argument-flow | accepted | Revisione flusso argomentativo v25(validated)→v26: applicazione piano 7 fasi / 21 punti (P0-P21) |
 | [021](session-021.md) | 2026-06-15 | opencode | revision-global | accepted-validated | Revisione globale v25(validated): tesi, architettura, arco narrativo, ridondanza, terminologia, coerenza strumenti, consistenza numerica |
 | [020](session-020.md) | 2026-06-15 | opencode | revision-global | accepted | Revisione globale v23: successione argomentativa, ordine dei concetti, rinvii interni e collocazione sezioni |
