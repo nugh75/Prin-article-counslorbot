@@ -1,6 +1,7 @@
 ---
-article: article-v39-2026-06-18-2104.md
-updated: 2026-06-18
+article: articles/article-v40-2026-06-18-2212.md
+reconciled-version: v40-2026-06-18-2212
+updated: 2026-06-18 23:06
 ---
 
 # Freeze Ledger — Counselorbot
@@ -39,6 +40,15 @@ updated: 2026-06-18
 | §2.1 P7 (PQBL) | "Il secondo è il modulo di *Pure Question-Based Learning*..." | sessione-027 | Terminologia uniformata, Jemstedt et al. (2024) |
 | §2.1 P8 (chiusura) | "L'architettura modulare di Counselorbot consente..." | sessione-027 | Compressione |
 
+## Unità congelate 🟢 (sessione corrente)
+
+| Unità | Incipit | Congelata in | Note |
+|---|---|---|---|
+| §2.2 P1 (P29) | "Il principio organizzativo centrale di Counselorbot..." | sessione-v40-r-pp | Accettate 4 modifiche: alleggerimento sintattico, anafora esplicita, termini `guided steps` e `meta-prompt` mantenuti |
+| §2.2 P2 (P30) | "All’interno di ciascun passo, tuttavia..." | sessione-v40-r-pp | Accettate 5 modifiche: ridotte ripetizioni, mantenuto `LLM` e concetto di interazione ibrida |
+| §2.2 P3a (ex P31) | "Poiché gli strumenti integrati presentano..." | sessione-v40-r-pp | Scisso da P31: flusso operativo dei questionari; `PQBL` stabilizzato |
+| §2.2 P3b (ex P31) | "L’interpretazione dei questionari si sviluppa..." | sessione-v40-r-pp | Scisso da P31: modalità analitica e sintetica di interpretazione del profilo |
+
 ## Unità aperte 🟡
 
 | Unità | Incipit | Stato | Intenzione |
@@ -52,3 +62,4 @@ updated: 2026-06-18
 | Sistema citazionale | — | deferred | APA vs Roma TrE-PRESS |
 | Riduzione lunghezza | — | deferred | Limite flessibile (PRIN ~50 pagine per unità) |
 | Voce Zimbardo in .bib | — | deferred | ZTPI ora citato (Zimbardo & Boyd, 1999); aggiungere reference |
+| Traccia terminologica /r-pp | — | open | Usare `revisions/article/terminology-trace-v40-2026-06-18.md`: mantenere più termini inglesi e stabilizzare localmente durante revisione paragrafo-per-paragrafo |
