@@ -1,5 +1,5 @@
 ---
-article: article-v38-2026-06-18-1928.md
+article: article-v39-2026-06-18-2104.md
 updated: 2026-06-18
 ---
 
@@ -25,15 +25,24 @@ updated: 2026-06-18
 | §1.3 P2 (P17) | "Alla base del portale vi è il costrutto..." | sessione-025 | Invariato |
 | §1.3 P3 (P18) | "Tale costrutto si declina operativamente..." | sessione-026 | Acronimi espansi (QPCC, QAP verificati su competenzestrategiche.it) |
 | §2 P1 (P19) | "Counselorbot prende avvio dal framework..." | sessione-026 | Collegamento a §1.3; "riflessione assistita" |
-| §2.1 P1 (P20) | "Nella schermata iniziale..." | sessione-026 | Elenco strumenti + Savickas + PQBL (Jemstedt e Bälter) |
+| §2.1 P1 (P20) | "Nella schermata iniziale..." | sessione-026 | Citazioni aggiornate: Savickas (2018), Jemstedt et al. (2024) — fix in sessione-027 |
 | §2.1 P2 (P21) | "Il QSA, finalizzato ad analizzare..." | sessione-026 | Rimossa ripetizione fattori (in P17) |
+
+## Unità congelate 🟢 (continuazione sessione-027)
+
+| Unità | Incipit | Congelata in | Note |
+|---|---|---|---|
+| §2.1 P3 (QSAr) | "Accanto al QSA è disponibile anche il QSAr..." | sessione-027 | Citazione Pellerey 2013, 46 vs 100 item |
+| §2.1 P4 (ZTPI) | "Lo *Zimbardo Time Perspective Inventory* (ZTPI; Zimbardo & Boyd, 1999)..." | sessione-027 | Citazione aggiunta; ⚠ voce Zimbardo da inserire in .bib |
+| §2.1 P5 (interfaccia) | "Per QSA, QSAr e ZTPI, l'interfaccia..." | sessione-027 | Riconosce formato portale *Competenze strategiche* |
+| §2.1 P6 (CCI) | "Ai questionari si affiancano due strumenti di natura differente..." | sessione-027 | Savickas (2018), compressione |
+| §2.1 P7 (PQBL) | "Il secondo è il modulo di *Pure Question-Based Learning*..." | sessione-027 | Terminologia uniformata, Jemstedt et al. (2024) |
+| §2.1 P8 (chiusura) | "L'architettura modulare di Counselorbot consente..." | sessione-027 | Compressione |
 
 ## Unità aperte 🟡
 
 | Unità | Incipit | Stato | Intenzione |
 |---|---|---|---|
-| §2.1 P3 (P22) | "Accanto al QSA è integrato il QSAr..." | open | Revisione /r-pp sessione futura |
-| §2.1 P4–P6 (ZTPI, CCI, PQBL) | — | open | Revisione /r-pp sessione futura; PQBL da uniformare (definito in P20) |
 | §2.2–§2.5 | — | open | Revisione /r-pp sessione futura |
 | §3 Metodologia | — | open | Revisione /r-pp sessione futura |
 | §4 Risultati | — | open | Revisione /r-pp sessione futura |
@@ -41,5 +50,5 @@ updated: 2026-06-18
 | §6 Conclusioni | — | open | Revisione /r-pp sessione futura |
 | Passata globale citazioni | — | deferred | Virgole APA §2–§6 mancanti |
 | Sistema citazionale | — | deferred | APA vs Roma TrE-PRESS |
-| Riduzione lunghezza | — | deferred | 48.997 chars vs cap 30.000 (-18.997) |
-| Voce Zimbardo in .bib | — | deferred | ZTPI espanso nel testo ma non citato; aggiungere reference |
+| Riduzione lunghezza | — | deferred | Limite flessibile (PRIN ~50 pagine per unità) |
+| Voce Zimbardo in .bib | — | deferred | ZTPI ora citato (Zimbardo & Boyd, 1999); aggiungere reference |
