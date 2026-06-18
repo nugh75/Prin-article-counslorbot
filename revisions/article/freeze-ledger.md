@@ -51,13 +51,19 @@ updated: 2026-06-18 23:28
 | §2.2 P4 (P32) | "La *Career Counseling Interview* segue invece..." | sessione-v40-r-pp | Accettate 6 modifiche: ridotti passivi, mantenuto nome inglese del protocollo |
 | §2.2 P5 (P33) | "Il modulo PQBL segue un terzo flusso..." | sessione-v40-r-pp | Accettate 6 modifiche: `PQBL` stabilizzato, mantenuto `feedback`, frase alleggerita |
 | §2.3 P1a (ex P34) | "Counselorbot è eseguito su una workstation..." | sessione-v40-r-pp | Scisso da P34: configurazione hardware; specifiche CPU/RAM/GPU mantenute |
-| §2.3 P1b (ex P34) | "La scelta dell’esecuzione locale risponde..." | sessione-v40-r-pp | Scisso da P34: razionale dell'esecuzione locale; aggiunta glossa API |
+| §2.3 P1b (ex P34) | "La scelta dell’esecuzione locale risponde..." | sessione-v40-r-pp | Scisso da P34: razionale dell’esecuzione locale; aggiunta glossa API |
+| §2.4 P1 (software/Docker) | "Il software di Counselorbot comprende..." | sessione-v40-r-pp | Disambiguazione coordinata memoria; rimossa ripetizione "Counselorbot" in frase Docker |
+| §2.4.1 P1 (modelli linguistici) | "Per la gestione dei modelli linguistici..." | sessione-v40-r-pp | `open source` senza trattino; rimosso "ottimale"; lista famiglie con due punti |
+| §2.4.2 (recupero conoscenze/memoria) | "Counselorbot utilizza diversi meccanismi..." | sessione-v40-r-pp | Scisso in 5 paragrafi; 7 compressioni; "più pertinenti"; grafo e memoria condivisa autonomi |
+| §2.4.3 P1 (interazioni/anonimizzazione) | "Le interazioni vengono registrate..." | sessione-v40-r-pp | Fusione anafora "Tale archivio"; "più discusse"; "consentire" |
+| §2.5 (struttura del sistema) | "L'architettura applicativa di Counselorbot..." | sessione-v40-r-pp | Scisso in 5 paragrafi; 9 compressioni; "diverse componenti"; fusioni backend/database/astrazione |
 
 ## Unità aperte 🟡
 
 | Unità | Incipit | Stato | Intenzione |
 |---|---|---|---|
-| §2.2–§2.5 | — | open | Revisione /r-pp sessione futura |
+| §2.4.2 | — | open | In corso /r-pp |
+| §2.4.3–§2.5 | — | open | Revisione /r-pp sessione corrente |
 | §3 Metodologia | — | open | Revisione /r-pp sessione futura |
 | §4 Risultati | — | open | Revisione /r-pp sessione futura |
 | §5 Discussione | — | open | Revisione /r-pp sessione futura |
@@ -66,5 +72,4 @@ updated: 2026-06-18 23:28
 | Sistema citazionale | — | deferred | APA vs Roma TrE-PRESS |
 | Riduzione lunghezza | — | deferred | Limite flessibile (PRIN ~50 pagine per unità) |
 | Voce Zimbardo in .bib | — | deferred | ZTPI ora citato (Zimbardo & Boyd, 1999); aggiungere reference |
-| Traccia terminologica /r-pp | — | open | Usare `revisions/article/terminology-trace-v40-2026-06-18.md`: mantenere più termini inglesi e stabilizzare localmente durante revisione paragrafo-per-paragrafo |
-| §2.4 P1 (software/Docker) | "Il software di Counselorbot comprende..." | open | Aggiunta frase su container Docker e replicabilità dell'ambiente software; paragrafo ancora da chiudere |
+| Traccia terminologica /r-pp | — | open | Usare `revisions/article/terminology-trace-v40-2026-06-18.md` |
