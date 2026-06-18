@@ -5,6 +5,7 @@ Registro cronologico delle interazioni umane–macchina sull'articolo
 
 | Sessione | Data | Tool | Tipo | Decisione | Oggetto |
 |---|---|---|---|---|---|---|
+| [026](session-026.md) | 2026-06-18 | opencode | revision-paragraph | accepted | Revisione par. per par. P18–P21 v37→v38: espansioni acronimi QPCC/QAP (verifica competenzestrategiche.it), integrazione strumenti portale+Savickas+PQBL, collegamento §1.3→§2, rimozione ripetizioni. Bump v37→v38 |
 | [025](session-025.md) | 2026-06-18 | claude-code | revision-paragraph | accepted | Revisione par. per par. P1–P17 v36: terminologia chatbot≠autovalutazione (riflessione assistita), citazioni APA, fusioni P8+P9 e P12+P13, grammatica, retrieval→recupero semantico, verifica portale. Bump v35→v36 |
 | [024](session-024.md) | 2026-06-16 | opencode | revision-discussion | accepted | Revisione §5 Discussione v34: ToV, 5 paragrafi, 17 modifiche. Bump v33→v34 |
 | [023](session-023.md) | 2026-06-16 | opencode | revision-conclusions | accepted | Revisione §6 Conclusioni v32: RQ esplicite, riformulazione investimento, direzioni future su 3 orizzonti, fine-tuning dati anonimizzati, Gemma 4 12B |
