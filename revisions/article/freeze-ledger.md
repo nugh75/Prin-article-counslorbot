@@ -78,13 +78,29 @@ updated: 2026-06-18 23:28
 | §3.4 P3 (seconda fase test locali) | "Nella seconda fase, i modelli selezionati..." | sessione-4-v40 | Spazio spurio §2.3 rimosso |
 | §3.4 P4 (criteri valutazione + punteggio) | "Per ciascun modello sono state esaminate..." | sessione-4-v40 | Glossa token; compattazione TTFT; disambiguazione liste qualità |
 
+## Unità congelate 🟢 (sessione 5 — 2026-06-19)
+
+| Unità | Incipit | Congelata in | Note |
+|---|---|---|---|
+| §4.1 P2 (benchmark risultati) | "Tutti i modelli hanno completato l'intero flusso..." | sessione-5-v40 | "affidabilità di connessione" → "completato senza interruzioni"; falsa avversativa "a fronte di" → "con"; "completo" → "più approfondito" |
+| §4.2 P1 (campione UX) | "La versione CB-SBS presenta valutazioni..." | sessione-5-v40 | "il numeratore a 6" → "il campione utile a n=6"; record di test rimosso |
+| §4.2 P2 (delta UX) | "I miglioramenti più marcati riguardano..." | sessione-5-v40 | "range di variabilità" → "variabilità attesa" |
+| §4.3 P2 (inserimento dati) | "Inserimento dati. (i) Tre partecipanti..." | sessione-5-v40 | "caricamento" → "inserimento manuale" |
+| §4.3 P3 (memoria sessione) | "Coerenza della memoria di sessione. (ii)..." | sessione-5-v40 | "nella prima analisi" → "al primo utilizzo" |
+| §4.3 P6 (feedback positivi) | "Sei partecipanti hanno espresso valutazioni positive..." | sessione-5-v40 | Parallelismo lista ripristinato; citazione-frase separata con punto e virgola |
+
+## Unità congelate 🟢 (sessione 5 — §5 Discussione)
+
+| Unità | Incipit | Congelata in | Note |
+|---|---|---|---|
+| §5 P1 (tendenza CB-SBS) | "I risultati presentati in §4 indicano..." | sessione-5-v40 | Disambiguazione "delle stesse modifiche" → "degli stessi interventi progettuali"; Gap A integrato (criticità iii e iv) |
+| §5 P2 (architettura ibrida) | "Sul piano più generale..." | sessione-5-v40 | "poco coperte" → "poco esplorate"; Gap B (benchmark 0,83) + Gap C (trade-off latenza/qualità) integrati |
+
 ## Unità aperte 🟡
 
 | Unità | Incipit | Stato | Intenzione |
 |---|---|---|---|
-| §4 Risultati | — | open | Revisione /r-pp — ⚠ tabelle dati empirici |
-| §5 Discussione | — | open | Revisione /r-pp sessione futura |
-| §6 Conclusioni | — | open | Revisione /r-pp sessione futura |
+| §6 Conclusioni | — | open | Walk /r-pp non ancora eseguito; Gap D integrato nel paragrafo limiti |
 | Passata globale citazioni | — | deferred | Virgole APA §2–§6 mancanti |
 | Sistema citazionale | — | deferred | APA vs Roma TrE-PRESS |
 | Riduzione lunghezza | — | deferred | Limite flessibile (PRIN ~50 pagine per unità) |
