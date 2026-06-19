@@ -96,11 +96,24 @@ updated: 2026-06-18 23:28
 | §5 P1 (tendenza CB-SBS) | "I risultati presentati in §4 indicano..." | sessione-5-v40 | Disambiguazione "delle stesse modifiche" → "degli stessi interventi progettuali"; Gap A integrato (criticità iii e iv) |
 | §5 P2 (architettura ibrida) | "Sul piano più generale..." | sessione-5-v40 | "poco coperte" → "poco esplorate"; Gap B (benchmark 0,83) + Gap C (trade-off latenza/qualità) integrati |
 
+## Unità congelate 🟢 (sessione 5 — §6 Conclusioni)
+
+| Unità | Incipit | Congelata in | Note |
+|---|---|---|---|
+| §6 P1 (D1+D2) | "Rispondendo alla prima domanda di ricerca..." | sessione-5-v40 | "rapportato" → "paragonabile"; lista 8 → 5 gruppi; sfida interpretativa aggiunta; "approccio ADDIE" globale |
+| §6 P2 (limiti) | "I risultati vanno tuttavia interpretati..." | sessione-5-v40 | "valutazione" → "valutazioni" (grammatica); soggetto-pronome disambiguato |
+| §6 P3 (breve termine) | "Le direzioni di sviluppo futuro..." | sessione-5-v40 | Opener burocratico rimosso |
+| §6 P4 (medio termine) | "A medio termine, lo sviluppo riguarda..." | sessione-5-v40 | Nessuna modifica |
+| §6 P5 (lungo termine) | "A lungo termine, si prospettano..." | sessione-5-v40 | "tenere sotto osservazione" → "monitorare"; frase ridondante eliminata |
+
 ## Unità aperte 🟡
 
 | Unità | Incipit | Stato | Intenzione |
 |---|---|---|---|
-| §6 Conclusioni | — | open | Walk /r-pp non ancora eseguito; Gap D integrato nel paragrafo limiti |
+| Passata globale citazioni | — | deferred | Virgole APA §2–§6 mancanti |
+| Sistema citazionale | — | deferred | APA vs Roma TrE-PRESS |
+| Riduzione lunghezza | — | deferred | Limite flessibile (PRIN ~50 pagine per unità) |
+| Voce Zimbardo in .bib | — | deferred | ZTPI ora citato (Zimbardo & Boyd, 1999); aggiungere reference |
 | Passata globale citazioni | — | deferred | Virgole APA §2–§6 mancanti |
 | Sistema citazionale | — | deferred | APA vs Roma TrE-PRESS |
 | Riduzione lunghezza | — | deferred | Limite flessibile (PRIN ~50 pagine per unità) |
