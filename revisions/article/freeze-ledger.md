@@ -58,14 +58,23 @@ updated: 2026-06-18 23:28
 | §2.4.3 P1 (interazioni/anonimizzazione) | "Le interazioni vengono registrate..." | sessione-v40-r-pp | Fusione anafora "Tale archivio"; "più discusse"; "consentire" |
 | §2.5 (struttura del sistema) | "L'architettura applicativa di Counselorbot..." | sessione-v40-r-pp | Scisso in 5 paragrafi; 9 compressioni; "diverse componenti"; fusioni backend/database/astrazione |
 
+## Unità congelate 🟢 (sessione 3 — 2026-06-19)
+
+| Unità | Incipit | Congelata in | Note |
+|---|---|---|---|
+| §3.1 P1a (ADDIE) | "Per valutare il sistema descritto nel §2..." | sessione-3-v40 | Scisso da P1 originale; anafora "L'acronimo" → relativa |
+| §3.1 P1b (CB-C) | "Il primo ciclo ha portato alla realizzazione di CB-C..." | sessione-3-v40 | Scisso da P1; fusione "In tale configurazione"; compressione criticità |
+| §3.1 P1c (CB-SBS) | "Il secondo ciclo ha condotto allo sviluppo di CB-SBS..." | sessione-3-v40 | Scisso da P1; frase disegno spostata a §3.2 |
+| §3.2 P1 (partecipanti) | "La valutazione adotta un disegno comparativo..." | sessione-3-v40 | Scisso; età corretta 14→18; "versione precedente" rimosso |
+| §3.2 P2 (procedura) | "La procedura prevedeva la compilazione del QSA..." | sessione-3-v40 | Scisso; passivo→attivo; "inizialmente/Successivamente" rimossi |
+| §3.3 P1 (questionario) | "Il questionario di gradimento comprende dieci item..." | sessione-3-v40 | "versione estesa" opaco rimosso; 5 compressioni |
+
 ## Unità aperte 🟡
 
 | Unità | Incipit | Stato | Intenzione |
 |---|---|---|---|
-| §2.4.2 | — | open | In corso /r-pp |
-| §2.4.3–§2.5 | — | open | Revisione /r-pp sessione corrente |
-| §3 Metodologia | — | open | Revisione /r-pp sessione futura |
-| §4 Risultati | — | open | Revisione /r-pp sessione futura |
+| §3.4 Selezione modello | — | open | Revisione /r-pp — ⚠ no modifica valori tabella senza DATA_VERIFY |
+| §4 Risultati | — | open | Revisione /r-pp — ⚠ tabelle dati empirici |
 | §5 Discussione | — | open | Revisione /r-pp sessione futura |
 | §6 Conclusioni | — | open | Revisione /r-pp sessione futura |
 | Passata globale citazioni | — | deferred | Virgole APA §2–§6 mancanti |
