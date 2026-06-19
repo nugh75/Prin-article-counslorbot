@@ -69,11 +69,19 @@ updated: 2026-06-18 23:28
 | §3.2 P2 (procedura) | "La procedura prevedeva la compilazione del QSA..." | sessione-3-v40 | Scisso; passivo→attivo; "inizialmente/Successivamente" rimossi |
 | §3.3 P1 (questionario) | "Il questionario di gradimento comprende dieci item..." | sessione-3-v40 | "versione estesa" opaco rimosso; 5 compressioni |
 
+## Unità congelate 🟢 (sessione 4 — 2026-06-19)
+
+| Unità | Incipit | Congelata in | Note |
+|---|---|---|---|
+| §3.4 P1 (benchmark fase 1) | "La selezione del modello linguistico locale è stata articolata in due fasi..." | sessione-4-v40 | Glossa benchmark; cross-ref §2.3; ridondanze rimosse |
+| §3.4 P2 (criteri extra-benchmark) | "Accanto ai punteggi di benchmark..." | sessione-4-v40 | Apertura negativa → positiva (TOV) |
+| §3.4 P3 (seconda fase test locali) | "Nella seconda fase, i modelli selezionati..." | sessione-4-v40 | Spazio spurio §2.3 rimosso |
+| §3.4 P4 (criteri valutazione + punteggio) | "Per ciascun modello sono state esaminate..." | sessione-4-v40 | Glossa token; compattazione TTFT; disambiguazione liste qualità |
+
 ## Unità aperte 🟡
 
 | Unità | Incipit | Stato | Intenzione |
 |---|---|---|---|
-| §3.4 Selezione modello | — | open | Revisione /r-pp — ⚠ no modifica valori tabella senza DATA_VERIFY |
 | §4 Risultati | — | open | Revisione /r-pp — ⚠ tabelle dati empirici |
 | §5 Discussione | — | open | Revisione /r-pp sessione futura |
 | §6 Conclusioni | — | open | Revisione /r-pp sessione futura |
